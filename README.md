@@ -6,7 +6,7 @@ File name: `en-us/cmudict/cmudict-0.7b.phones.txt.utf8`
 
  * Fetched from http://www.speech.cs.cmu.edu/cgi-bin/cmudict 2016-08-23
  * Converted from Latin-1 to utf-8
- * Converted to Wikispeech-internal format, and transcriptioned mapped to MARY-SAMPA
+ * Converted to Wikispeech-internal format, and transcriptions mapped to MARY-SAMPA
  
 
 ## NST Swedish Pronouncing Dictionary (Swedish/Sweden)
