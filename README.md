@@ -15,5 +15,5 @@ File name: `sv-se/nst/swe030224NST.pron-ws.utf8`
 
  * Fetched from http://www.nb.no/sbfil/leksikalske_databaser/leksikon/sv.leksikon.tar.gz 2016-08-23
  * Converted from Latin-1 to utf-8
- * Converted to Wikispeech-internal format
+ * Converted to Wikispeech-internal format, and transcriptioned mapped to MARY-SAMPA
  
