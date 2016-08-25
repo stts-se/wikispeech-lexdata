@@ -19,11 +19,11 @@ File name: `sv-se/nst/swe030224NST.pron-ws.utf8.gz`
  
 
 
-## NST Swedish Pronouncing Dictionary (Swedish/Sweden)
+## NST Bokmål Pronouncing Dictionary (Norwegian Bokmål/Norway)
 
 File name: `nb-no/nst/nor030224NST.pron-ws.utf8.gz`
 
  * Fetched from http://www.nb.no/sbfil/leksikalske_databaser/leksikon/no.leksikon.tar.gz 2016-08-25
  * Converted from Latin-1 to utf-8
- * Converted to Wikispeech-internal format, and transcriptions mapped to sv-se WS-SAMPA
+ * Converted to Wikispeech-internal format, and transcriptions mapped to nb-no WS-SAMPA
  
