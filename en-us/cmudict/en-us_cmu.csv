@@ -1,0 +1,47 @@
+DESCRIPTION	CMU	IPA	CATEGORY
+pot	AA	ɒ	syllabic
+pat	AE	æ	syllabic
+cut	AH	ʌ	syllabic
+#but: schwa is transcribed AH0 in CMU!!
+allow	AX	ə	syllabic
+cause	AO	ɔ	syllabic
+rouse	AW	a⁀ʊ	syllabic
+rise	AY	a⁀ɪ	syllabic
+bin	B	b	non syllabic
+chin	CH	t⁀ʃ	non syllabic
+din	D	d	non syllabic
+this	DH	ð	non syllabic
+pet	EH	ɛ	syllabic
+furs	ER	ɝ	syllabic
+raise	EY	e⁀ɪ	syllabic
+fin	F	f	non syllabic
+give	G	g	non syllabic
+hit	HH	h	non syllabic
+pit	IH	ɪ	syllabic
+ease	IY	i	syllabic
+gin	JH	d⁀ʒ	non syllabic
+kin	K	k	non syllabic
+long	L	l	non syllabic
+mock	M	m	non syllabic
+knock	N	n	non syllabic
+thing	NG	ŋ	non syllabic
+nose	OW	o⁀ʊ	syllabic
+noise	OY	ɔ⁀ɪ	syllabic
+pin	P	p	non syllabic
+wrong	R	r	non syllabic
+sin	S	s	non syllabic
+shin	SH	ʃ	non syllabic
+tin	T	t	non syllabic
+thin	TH	θ	non syllabic
+put	UH	ʊ	syllabic
+lose	UW	u	syllabic
+vim	V	v	non syllabic
+wasp	W	w	non syllabic
+yacht	Y	j	non syllabic
+zing	Z	z	non syllabic
+measure	ZH	ʒ	non syllabic
+syllable delimiter	$	.	syllable delimiter
+primary stress	1	ˈ	stress
+secondary stress	2	ˌ	stress
+#no stress	0		stress
+phoneme delimiter	 		phoneme delimiter

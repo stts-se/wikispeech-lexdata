@@ -1,0 +1,55 @@
+DESCRIPTION	SAMPA	IPA	CATEGORY
+sil	i:	iː	syllabic
+sill	I	ɪ	syllabic
+full	u0	ɵ	syllabic
+ful	}:	ʉː	syllabic
+matt	a	a	syllabic
+mat	A:	ɑː	syllabic
+bot	u:	uː	syllabic
+bott	U	ʊ	syllabic
+häl	E:	ɛː	syllabic
+häll	E	ɛ	syllabic
+aula	a*U	a⁀ʊ	syllabic
+syl	y:	yː	syllabic
+syll	Y	ʏ	syllabic
+hel	e:	eː	syllabic
+herr,hett	e	e	syllabic
+nöt	9:	øː	syllabic
+mött,förra	9	ø	syllabic
+mål	o:	oː	syllabic
+moll,håll	O	ɔ	syllabic
+bättre	e	ə	syllabic
+#hjärta	n/a	æ	syllabic
+#hjärna	n/a	æː	syllabic
+#mörk	n/a	œ	syllabic
+#bör	n/a	œː	syllabic
+europa	E*U	e⁀ʊ	syllabic
+pol	p	p	non syllabic
+bok	b	b	non syllabic
+tok	t	t	non syllabic
+bort	rt	ʈ	non syllabic
+mod	m	m	non syllabic
+nod	n	n	non syllabic
+dop	d	d	non syllabic
+bord	rd	ɖ	non syllabic
+bok	k	k	non syllabic
+våg	g	g	non syllabic
+lång	N	ŋ	non syllabic
+forna	rn	ɳ	non syllabic
+fot	f	f	non syllabic
+våt	v	v	non syllabic
+kjol	C	ɕ	non syllabic
+fors	rs	ʂ	non syllabic
+rov	r	r	non syllabic
+lov	l	l	non syllabic
+sot	s	s	non syllabic
+sjok	S	ɧ	non syllabic
+hot	h	h	non syllabic
+porla	rl	ɭ	non syllabic
+jord	j	j	non syllabic
+#schlager	n/a	ʃ	non syllabic
+syllable delimiter	-	.	syllable delimiter
+phoneme delimiter	 		phoneme delimiter
+accent I	'	ˈ	stress
+accent II	"	ˈ̀	stress
+secondary stress	%	ˌ	stress

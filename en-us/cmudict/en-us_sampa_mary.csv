@@ -1,0 +1,45 @@
+DESCRIPTION	SYMBOL	IPA	CATEGORY
+pin /pIn/	p	p	non syllabic
+bin /bIn/	t	t	non syllabic
+tin /tIn/	k	k	non syllabic
+din /dIn/	b	b	non syllabic
+kin /kIn/	d	d	non syllabic
+give /gIv/	g	g	non syllabic
+chin /tSIn/	tS	t⁀ʃ	non syllabic
+gin /dZIn/	dZ	d⁀ʒ	non syllabic
+fin /fIn/	f	f	non syllabic
+vim /vIm/	v	v	non syllabic
+thin /TIn/	T	θ	non syllabic
+this /DIs/	D	ð	non syllabic
+sin /sIn/	s	s	non syllabic
+zing /zIN/	z	z	non syllabic
+shin /SIn/	S	ʃ	non syllabic
+measure /"mEZ@`/	Z	ʒ	non syllabic
+hit /hIt/	h	h	non syllabic
+long /lON/	l	l	non syllabic
+mock /mAk/	m	m	non syllabic
+knock /nAk/	n	n	non syllabic
+thing /TIN/	N	ŋ	non syllabic
+wrong /rON/	r	r	non syllabic
+wasp /wAsp/	w	w	non syllabic
+yacht /jAt/	j	j	non syllabic
+pot /pAt/	A	ɒ	syllabic
+cause /kOz/	O	ɔ	syllabic
+lose /luz/	u	u	syllabic
+ease /iz/	i	i	syllabic
+pat /p{t/	{	æ	syllabic
+cut /kVt/	V	ʌ	syllabic
+pet /pEt/	E	ɛ	syllabic
+pit /pIt/	I	ɪ	syllabic
+put /pUt/	U	ʊ	syllabic
+allow /@"laU/	@	ə	syllabic
+furs /f3`z/	r=	ɝ	syllabic
+rouse /raUz/	aU	a⁀ʊ	syllabic
+noise /nOIz/	OI	ɔ⁀ɪ	syllabic
+nose /n@Uz/	@U	o⁀ʊ	syllabic
+raise /rEIz/	EI	e⁀ɪ	syllabic
+rise /raIz/	AI	a⁀ɪ	syllabic
+syllable delimiter	-	.	syllable delimiter
+primary stress	"	ˈ	stress
+secondary stress	%	ˌ	stress
+phoneme delimiter	 		phoneme delimiter

@@ -1,0 +1,65 @@
+DESCRIPTION	SAMPA	IPA	CATEGORY
+vin	i:	iː	syllabic
+sitt	I	ɪ	syllabic
+ny	y:	yː	syllabic
+nytt	Y	ʏ	syllabic
+lek	e:	eː	syllabic
+behage	@	ə	syllabic
+løk	2:	øː	syllabic
+høst	9	œ	syllabic
+penn	E	ɛ	syllabic
+vær	{:	æː	syllabic
+vært	{	æ	syllabic
+hus	}:	ʉː	syllabic
+russ	u0	ʊ̈	syllabic
+bod	u:	uː	syllabic
+fort	U	ʊ	syllabic
+rå	o:	oː	syllabic
+gått	O	ɔ	syllabic
+bad	A:	ɑː	syllabic
+hatt	A	ɑ	syllabic
+#sau (in NST specs)	E*}	ɛ⁀ʊ̈	syllabic
+sau (in NST lex)	E*u0	ɛ⁀ʊ̈	syllabic
+sei	{*I	ɛ⁀ɪ	syllabic
+køye	9*Y	œ⁀ʏ	syllabic
+kai	A*I	ɑ⁀ɪ	syllabic
+konvoy	O*Y	ɔ⁀ɪ	syllabic
+#hui*	-		
+#show*	-		
+#how*	-		
+pil	p	p	non syllabic
+bil	b	b	non syllabic
+tid	t	t	non syllabic
+dag	d	d	non syllabic
+kost	k	k	non syllabic
+gul	g	g	non syllabic
+fin	f	f	non syllabic
+vase	v	v	non syllabic
+sil	s	s	non syllabic
+hes	h	h	non syllabic
+kino	C	ɕ	non syllabic
+sju	S	ʃ	non syllabic
+man	m	m	non syllabic
+nord	n	n	non syllabic
+eng	N	ŋ	non syllabic
+rose	r	r	non syllabic
+land	l	l	non syllabic
+ja	j	j	non syllabic
+stort	t`	ʈ	non syllabic
+rekord	d`	ɖ	non syllabic
+barn	n`	ɳ	non syllabic
+perle	l`	ɭ	non syllabic
+pers	s`	ʂ	non syllabic
+#tsjekkisk	tS	t⁀ʃ	non syllabic
+#they*	-		non syllabic
+#thin*	-		non syllabic
+#Bach*	-		non syllabic
+handel	l=	l̩	syllabic
+godtgjørelse	l`=	ɭ̩	syllabic
+spaden	n=	n̩	syllabic
+borden	n`=	ɳ̩	syllabic
+syllable delimiter	$	.	syllable delimiter
+accent I	"	ˈ	stress
+accent II	""	ˈ̀	stress
+secondary stress	%	ˌ	stress
+phoneme delimiter			phoneme delimiter
