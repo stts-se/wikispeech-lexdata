@@ -50,7 +50,7 @@ jord	j	j	non syllabic
 #schlager	n/a	ʃ	non syllabic
 syllable delimiter	.	.	syllable delimiter
 accent I	"	ˈ	stress
-accent II	""	ˈ̀̀	stress
+accent II	""	ˈ̀	stress
 secondary stress	%	ˌ	stress
 phoneme delimiter	 		phoneme delimiter
 #compound delimiter	-		compound delimiter
