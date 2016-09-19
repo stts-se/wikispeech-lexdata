@@ -14,13 +14,16 @@ aula	a*U	a⁀ʊ	syllabic
 syl	y:	yː	syllabic
 syll	Y	ʏ	syllabic
 hel	e:	eː	syllabic
-herr,hett	E	e	syllabic
+#herr,hett	E	e	syllabic
+#herr	E	ɛ	syllabic
+fartyget	e	e	syllabic
 nöt	2:	øː	syllabic
 gör	9:	œː	syllabic
 mött,förra	9	ø	syllabic
 mål	o:	oː	syllabic
 moll,håll	O	ɔ	syllabic
-bättre	e	ə	syllabic
+#bättre	e	ə	syllabic
+göteborg	@	ə	syllabic
 europa	E*U	e⁀ʊ	syllabic
 pol	p	p	non syllabic
 bok	b	b	non syllabic
