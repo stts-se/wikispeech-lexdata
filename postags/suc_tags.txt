@@ -1,0 +1,24 @@
+https://spraakbanken.gu.se/parole/Docs/SUC2.0-manual.pdf
+Code	Swedish	category	Example	English	translation
+AB	Adverb	inte	Adverb
+DT	Determinerare	denna	Determiner
+HA	Frågande/relativt adverb	när	Interrogative/Relative Adverb
+HD	Frågande/relativ determinerare	vilken	Interrogative/Relative Determiner
+HP	Frågande/relativt pronomen	som	Interrogative/Relative Pronoun
+HS	Frågande/relativt possessivt	pronomen	vars	Interrogative/Relative Possessive
+IE	Infinitivmärke	att	Infinitive	Marker
+IN	Interjektion	ja	Interjection
+JJ	Adjektiv	glad	Adjective
+KN	Konjunktion	och	Conjunction
+NN	Substantiv	pudding	Noun
+PC	Particip	utsänd	Participle
+PL	Partikel	ut	Particle
+PM	Egennamn	Mats	Proper	Noun
+PN	Pronomen	hon	Pronoun
+PP	Preposition	av	Preposition
+PS	Possessivt	pronomen	hennes	Possessive
+RG	Grundtal	tre	Cardinal	number
+RO	Ordningstal	tredje	Ordinal	number
+SN	Subjunktion	att	Subjunction
+UO	Utländskt	ord	the	Foreign Word
+VB	Verb	kasta	Verb	
