@@ -8,8 +8,9 @@ mat	A:	ɑː	syllabic
 bot	u:	uː	syllabic
 bott	U	ʊ	syllabic
 häl	E:	ɛː	syllabic
-härd	E:	æː	syllabic
+härd	{:	æː	syllabic
 häll	E	ɛ	syllabic
+hjärta	{	æ	syllabic
 aula	au	a⁀ʊ	syllabic
 syl	y:	yː	syllabic
 syll	Y	ʏ	syllabic
@@ -22,10 +23,6 @@ mörk	9	œ	syllabic
 mål	o:	oː	syllabic
 moll,håll	O	ɔ	syllabic
 bättre	@	ə	syllabic
-#hjärta	n/a	æ	syllabic
-#hjärna	n/a	æː	syllabic
-#mörk	n/a	œ	syllabic
-#bör	n/a	œː	syllabic
 europa	eu	e⁀ʊ	syllabic
 pol	p	p	non syllabic
 bok	b	b	non syllabic
@@ -46,7 +43,7 @@ fors	rs	ʂ	non syllabic
 rov	r	r	non syllabic
 lov	l	l	non syllabic
 sot	s	s	non syllabic
-sjok	x	ɧ	non syllabic
+sjuk	x	ɧ	non syllabic
 hot	h	h	non syllabic
 porla	rl	ɭ	non syllabic
 jord	j	j	non syllabic
