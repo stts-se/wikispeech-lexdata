@@ -1,68 +1,68 @@
-DESCRIPTION	SYMBOL	IPA	CATEGORY		
+DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
 #http://www.phon.ucl.ac.uk/home/sampa/norweg.htm					
-hopp /hOp/	p	p	non syllabic		
-labb /lAb/	b	b	non syllabic		
-lat /lA:t/	t	t	non syllabic		
-ladd /lAd/	d	d	non syllabic		
-takk /tAk/	k	k	non syllabic		
-tagg /tAg/	g	g	non syllabic		
-fin /fi:n/	f	f	non syllabic		
-vin /vi:n/	v	v	non syllabic		
-lass /lAs/	s	s	non syllabic		
-skyt /Sy:t/	S	ʃ	non syllabic		
-kino /Ci:nu/	C	ɕ	non syllabic		
-gi /ji:/	j	j	non syllabic		
-ha /hA:/	h	h	non syllabic		
-lam /lAm/	m	m	non syllabic		
-vann /vAn/	n	n	non syllabic		
-sang /sAN/	N	ŋ	non syllabic		
-fall /fAl/	l	l	non syllabic		
-prøv /pr2:v/	r	r	non syllabic		
-vin /vi:n/	i:	iː	syllabic		
-sen /se:n/	e:	eː	syllabic		
-vær /v{:r/	{:	æː	syllabic		
-hat /hA:t/	A:	ɑː	syllabic		
-lyn /ly:n/	y:	yː	syllabic		
-søt /s2:t/	2:	øː	syllabic		
-våt /vO:t/	O:	oː	syllabic		
-bok /bu:k/	u:	uː	syllabic		
-lun /l}:n/	}:	ʉː	syllabic		
-vind /vin/	i	ɪ	syllabic		
-send /sen/	e	ɛ	syllabic		
-vært /v{rt/	{	æ	syllabic		
-hatt /hAt/	A	ɑ	syllabic		
-lynne /lyne/	y	ʏ	syllabic		
-søtt /s2t/	2	œ	syllabic		
-vått /vOt/	O	ɔ	syllabic		
-bukk /buk/	u	ʊ	syllabic		
-lund /l}n/	}	ʊ̈	syllabic		
+hopp /hOp/	p	p	U+0070	non syllabic
+labb /lAb/	b	b	U+0062	non syllabic
+lat /lA:t/	t	t	U+0074	non syllabic
+ladd /lAd/	d	d	U+0064	non syllabic
+takk /tAk/	k	k	U+006B	non syllabic
+tagg /tAg/	g	g	U+0067	non syllabic
+fin /fi:n/	f	f	U+0066	non syllabic
+vin /vi:n/	v	v	U+0076	non syllabic
+lass /lAs/	s	s	U+0073	non syllabic
+skyt /Sy:t/	S	ʃ	U+0283	non syllabic
+kino /Ci:nu/	C	ɕ	U+0255	non syllabic
+gi /ji:/	j	j	U+006A	non syllabic
+ha /hA:/	h	h	U+0068	non syllabic
+lam /lAm/	m	m	U+006D	non syllabic
+vann /vAn/	n	n	U+006E	non syllabic
+sang /sAN/	N	ŋ	U+014B	non syllabic
+fall /fAl/	l	l	U+006C	non syllabic
+prøv /pr2:v/	r	r	U+0072	non syllabic
+vin /vi:n/	i:	iː	U+0069U+02D0	syllabic
+sen /se:n/	e:	eː	U+0065U+02D0	syllabic
+vær /v{:r/	{:	æː	U+00E6U+02D0	syllabic
+hat /hA:t/	A:	ɑː	U+0251U+02D0	syllabic
+lyn /ly:n/	y:	yː	U+0079U+02D0	syllabic
+søt /s2:t/	2:	øː	U+00F8U+02D0	syllabic
+våt /vO:t/	O:	oː	U+006FU+02D0	syllabic
+bok /bu:k/	u:	uː	U+0075U+02D0	syllabic
+lun /l}:n/	}:	ʉː	U+0289U+02D0	syllabic
+vind /vin/	i	ɪ	U+026A	syllabic
+send /sen/	e	ɛ	U+025B	syllabic
+vært /v{rt/	{	æ	U+00E6	syllabic
+hatt /hAt/	A	ɑ	U+0251	syllabic
+lynne /lyne/	y	ʏ	U+028F	syllabic
+søtt /s2t/	2	œ	U+0153	syllabic
+vått /vOt/	O	ɔ	U+0254	syllabic
+bukk /buk/	u	ʊ	U+028A	syllabic
+lund /l}n/	}	ʊ̈	U+028AU+0308	syllabic
 # /@/ not in ACL SAMPA					
-bøner /b2n@r/	@	ə	syllabic		
-vei /v{i/	{i	ɛ⁀ɪ	syllabic		
-høy /h2y/	2y	œ⁀ʏ	syllabic		
-sau /sA}/	A}	ɛ⁀ʊ̈	syllabic		
-kai /kAi/	Ai	ɑ⁀ɪ	syllabic		
-konvoy /kunvOy/	Oy	ɔ⁀ɪ	syllabic		
+bøner /b2n@r/	@	ə	U+0259	syllabic
+vei /v{i/	{i	ɛ⁀ɪ	U+025BU+2040U+026A	syllabic
+høy /h2y/	2y	œ⁀ʏ	U+0153U+2040U+028F	syllabic
+sau /sA}/	A}	ɛ⁀ʊ̈	U+025BU+2040U+028AU+0308	syllabic
+kai /kAi/	Ai	ɑ⁀ɪ	U+0251U+2040U+026A	syllabic
+konvoy /kunvOy/	Oy	ɔ⁀ɪ	U+0254U+2040U+026A	syllabic
 #hui /h}i/	}i	ʊ̈⁀ɪ	syllabic		
 #hoi /hui/	ui	ʊ⁀ɪ	syllabic		
-hardt /hArt/	rt	ʈ	non syllabic		
-verdi /v{rdi:/	rd	ɖ	non syllabic		
-ærlig /{:rli/	rl	ɭ	non syllabic		
-garn /gA:rn/	rn	ɳ	non syllabic		
+hardt /hArt/	rt	ʈ	U+0288	non syllabic
+verdi /v{rdi:/	rd	ɖ	U+0256	non syllabic
+ærlig /{:rli/	rl	ɭ	U+026D	non syllabic
+garn /gA:rn/	rn	ɳ	U+0273	non syllabic
 #blå /brLO:/	rL	???	non syllabic		
 # /rs/ not in ACL SAMPA					
-fors /fOrs/	rs	ʂ	non syllabic		
-syllable delimiter	.	.	syllable delimiter		
-accent I	"	ˈ	stress		
-accent II	""	ˈ̀	stress		
-secondary stress	%	ˌ	stress		
-phoneme delimiter	 		phoneme delimiter		
+fors /fOrs/	rs	ʂ	U+0282	non syllabic
+syllable delimiter	.	.	U+002E	syllable delimiter
+accent I	"	ˈ	U+02C8	stress
+accent II	""	ˈ̀	U+02C8U+0300	stress
+secondary stress	%	ˌ	U+02CC	stress
+phoneme delimiter	 			phoneme delimiter
 # compound delimiter	-		compound delimiter		
 
 # syllabified consonants not in ACL sampa...
-handel	l=	l̩	syllabic
-godtgjørelse	l`=	ɭ̩	syllabic
-spaden	n=	n̩	syllabic
-borden	n`=	ɳ̩	syllabic
+handel	l=	l̩	U+006CU+0329	syllabic
+godtgjørelse	l`=	ɭ̩	U+026DU+0329	syllabic
+spaden	n=	n̩	U+006EU+0329	syllabic
+borden	n`=	ɳ̩	U+0273U+0329	syllabic
 
 

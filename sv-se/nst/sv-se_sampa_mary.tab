@@ -1,56 +1,56 @@
-DESCRIPTION	SAMPA	IPA	CATEGORY
-sil	i:	iː	syllabic
-sill	I	ɪ	syllabic
-full	u0	ɵ	syllabic
-ful	}:	ʉː	syllabic
-matt	a	a	syllabic
-mat	A:	ɑː	syllabic
-bot	u:	uː	syllabic
-bott	U	ʊ	syllabic
-häl	E:	ɛː	syllabic
-härd	{:	æː	syllabic
-häll	E	ɛ	syllabic
-hjärta	{	æ	syllabic
-aula	a*U	a⁀ʊ	syllabic
-syl	y:	yː	syllabic
-syll	Y	ʏ	syllabic
-hel	e:	eː	syllabic
-fartyget	e	e	syllabic
-nöt	2:	øː	syllabic
-gör	9:	œː	syllabic
-mött	2	ø	syllabic
-förra	9	œ	syllabic
-mål	o:	oː	syllabic
-moll,håll	O	ɔ	syllabic
+DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
+sil	i:	iː	U+0069U+02D0	syllabic
+sill	I	ɪ	U+026A	syllabic
+full	u0	ɵ	U+0275	syllabic
+ful	}:	ʉː	U+0289U+02D0	syllabic
+matt	a	a	U+0061	syllabic
+mat	A:	ɑː	U+0251U+02D0	syllabic
+bot	u:	uː	U+0075U+02D0	syllabic
+bott	U	ʊ	U+028A	syllabic
+häl	E:	ɛː	U+025BU+02D0	syllabic
+härd	{:	æː	U+00E6U+02D0	syllabic
+häll	E	ɛ	U+025B	syllabic
+hjärta	{	æ	U+00E6	syllabic
+aula	a*U	a⁀ʊ	U+0061U+2040U+028A	syllabic
+syl	y:	yː	U+0079U+02D0	syllabic
+syll	Y	ʏ	U+028F	syllabic
+hel	e:	eː	U+0065U+02D0	syllabic
+fartyget	e	e	U+0065	syllabic
+nöt	2:	øː	U+00F8U+02D0	syllabic
+gör	9:	œː	U+0153U+02D0	syllabic
+mött	2	ø	U+00F8	syllabic
+förra	9	œ	U+0153	syllabic
+mål	o:	oː	U+006FU+02D0	syllabic
+moll,håll	O	ɔ	U+0254	syllabic
 #bättre	e	ə	syllabic
-göteborg	@	ə	syllabic
-europa	E*U	e⁀ʊ	syllabic
-pol	p	p	non syllabic
-bok	b	b	non syllabic
-tok	t	t	non syllabic
-bort	rt	ʈ	non syllabic
-mod	m	m	non syllabic
-nod	n	n	non syllabic
-dop	d	d	non syllabic
-bord	rd	ɖ	non syllabic
-bok	k	k	non syllabic
-våg	g	g	non syllabic
-lång	N	ŋ	non syllabic
-forna	rn	ɳ	non syllabic
-fot	f	f	non syllabic
-våt	v	v	non syllabic
-kjol	C	ɕ	non syllabic
-fors	rs	ʂ	non syllabic
-rov	r	r	non syllabic
-lov	l	l	non syllabic
-sot	s	s	non syllabic
-sjok	S	ɧ	non syllabic
-hot	h	h	non syllabic
-porla	rl	ɭ	non syllabic
-jord	j	j	non syllabic
+göteborg	@	ə	U+0259	syllabic
+europa	E*U	e⁀ʊ	U+0065U+2040U+028A	syllabic
+pol	p	p	U+0070	non syllabic
+bok	b	b	U+0062	non syllabic
+tok	t	t	U+0074	non syllabic
+bort	rt	ʈ	U+0288	non syllabic
+mod	m	m	U+006D	non syllabic
+nod	n	n	U+006E	non syllabic
+dop	d	d	U+0064	non syllabic
+bord	rd	ɖ	U+0256	non syllabic
+bok	k	k	U+006B	non syllabic
+våg	g	g	U+0067	non syllabic
+lång	N	ŋ	U+014B	non syllabic
+forna	rn	ɳ	U+0273	non syllabic
+fot	f	f	U+0066	non syllabic
+våt	v	v	U+0076	non syllabic
+kjol	C	ɕ	U+0255	non syllabic
+fors	rs	ʂ	U+0282	non syllabic
+rov	r	r	U+0072	non syllabic
+lov	l	l	U+006C	non syllabic
+sot	s	s	U+0073	non syllabic
+sjok	S	ɧ	U+0267	non syllabic
+hot	h	h	U+0068	non syllabic
+porla	rl	ɭ	U+026D	non syllabic
+jord	j	j	U+006A	non syllabic
 #schlager	n/a	ʃ	non syllabic
-syllable delimiter	-	.	syllable delimiter
-phoneme delimiter	 		phoneme delimiter
-accent I	'	ˈ	stress
-accent II	"	ˈ̀	stress
-secondary stress	%	ˌ	stress
+syllable delimiter	-	.	U+002E	syllable delimiter
+phoneme delimiter	 			phoneme delimiter
+accent I	'	ˈ	U+02C8	stress
+accent II	"	ˈ̀	U+02C8U+0300	stress
+secondary stress	%	ˌ	U+02CC	stress

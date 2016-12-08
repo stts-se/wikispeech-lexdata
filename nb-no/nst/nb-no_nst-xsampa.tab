@@ -1,65 +1,65 @@
-DESCRIPTION	SAMPA	IPA	CATEGORY
-vin	i:	iː	syllabic
-sitt	I	ɪ	syllabic
-ny	y:	yː	syllabic
-nytt	Y	ʏ	syllabic
-lek	e:	eː	syllabic
-behage	@	ə	syllabic
-løk	2:	øː	syllabic
-høst	9	œ	syllabic
-penn	E	ɛ	syllabic
-vær	{:	æː	syllabic
-vært	{	æ	syllabic
-hus	}:	ʉː	syllabic
-russ	u0	ʊ̈	syllabic
-bod	u:	uː	syllabic
-fort	U	ʊ	syllabic
-rå	o:	oː	syllabic
-gått	O	ɔ	syllabic
-bad	A:	ɑː	syllabic
-hatt	A	ɑ	syllabic
+DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
+vin	i:	iː	U+0069U+02D0	syllabic
+sitt	I	ɪ	U+026A	syllabic
+ny	y:	yː	U+0079U+02D0	syllabic
+nytt	Y	ʏ	U+028F	syllabic
+lek	e:	eː	U+0065U+02D0	syllabic
+behage	@	ə	U+0259	syllabic
+løk	2:	øː	U+00F8U+02D0	syllabic
+høst	9	œ	U+0153	syllabic
+penn	E	ɛ	U+025B	syllabic
+vær	{:	æː	U+00E6U+02D0	syllabic
+vært	{	æ	U+00E6	syllabic
+hus	}:	ʉː	U+0289U+02D0	syllabic
+russ	u0	ʊ̈	U+028AU+0308	syllabic
+bod	u:	uː	U+0075U+02D0	syllabic
+fort	U	ʊ	U+028A	syllabic
+rå	o:	oː	U+006FU+02D0	syllabic
+gått	O	ɔ	U+0254	syllabic
+bad	A:	ɑː	U+0251U+02D0	syllabic
+hatt	A	ɑ	U+0251	syllabic
 #sau (in NST specs)	E*}	ɛ⁀ʊ̈	syllabic
-sau (in NST lex)	E*u0	ɛ⁀ʊ̈	syllabic
-sei	{*I	ɛ⁀ɪ	syllabic
-køye	9*Y	œ⁀ʏ	syllabic
-kai	A*I	ɑ⁀ɪ	syllabic
-konvoy	O*Y	ɔ⁀ɪ	syllabic
+sau (in NST lex)	E*u0	ɛ⁀ʊ̈	U+025BU+2040U+028AU+0308	syllabic
+sei	{*I	ɛ⁀ɪ	U+025BU+2040U+026A	syllabic
+køye	9*Y	œ⁀ʏ	U+0153U+2040U+028F	syllabic
+kai	A*I	ɑ⁀ɪ	U+0251U+2040U+026A	syllabic
+konvoy	O*Y	ɔ⁀ɪ	U+0254U+2040U+026A	syllabic
 #hui*	-		
 #show*	-		
 #how*	-		
-pil	p	p	non syllabic
-bil	b	b	non syllabic
-tid	t	t	non syllabic
-dag	d	d	non syllabic
-kost	k	k	non syllabic
-gul	g	g	non syllabic
-fin	f	f	non syllabic
-vase	v	v	non syllabic
-sil	s	s	non syllabic
-hes	h	h	non syllabic
-kino	C	ɕ	non syllabic
-sju	S	ʃ	non syllabic
-man	m	m	non syllabic
-nord	n	n	non syllabic
-eng	N	ŋ	non syllabic
-rose	r	r	non syllabic
-land	l	l	non syllabic
-ja	j	j	non syllabic
-stort	t`	ʈ	non syllabic
-rekord	d`	ɖ	non syllabic
-barn	n`	ɳ	non syllabic
-perle	l`	ɭ	non syllabic
-pers	s`	ʂ	non syllabic
+pil	p	p	U+0070	non syllabic
+bil	b	b	U+0062	non syllabic
+tid	t	t	U+0074	non syllabic
+dag	d	d	U+0064	non syllabic
+kost	k	k	U+006B	non syllabic
+gul	g	g	U+0067	non syllabic
+fin	f	f	U+0066	non syllabic
+vase	v	v	U+0076	non syllabic
+sil	s	s	U+0073	non syllabic
+hes	h	h	U+0068	non syllabic
+kino	C	ɕ	U+0255	non syllabic
+sju	S	ʃ	U+0283	non syllabic
+man	m	m	U+006D	non syllabic
+nord	n	n	U+006E	non syllabic
+eng	N	ŋ	U+014B	non syllabic
+rose	r	r	U+0072	non syllabic
+land	l	l	U+006C	non syllabic
+ja	j	j	U+006A	non syllabic
+stort	t`	ʈ	U+0288	non syllabic
+rekord	d`	ɖ	U+0256	non syllabic
+barn	n`	ɳ	U+0273	non syllabic
+perle	l`	ɭ	U+026D	non syllabic
+pers	s`	ʂ	U+0282	non syllabic
 #tsjekkisk	tS	t⁀ʃ	non syllabic
 #they*	-		non syllabic
 #thin*	-		non syllabic
 #Bach*	-		non syllabic
-handel	l=	l̩	syllabic
-godtgjørelse	l`=	ɭ̩	syllabic
-spaden	n=	n̩	syllabic
-borden	n`=	ɳ̩	syllabic
-syllable delimiter	$	.	syllable delimiter
-accent I	"	ˈ	stress
-accent II	""	ˈ̀	stress
-secondary stress	%	ˌ	stress
-phoneme delimiter			phoneme delimiter
+handel	l=	l̩	U+006CU+0329	syllabic
+godtgjørelse	l`=	ɭ̩	U+026DU+0329	syllabic
+spaden	n=	n̩	U+006EU+0329	syllabic
+borden	n`=	ɳ̩	U+0273U+0329	syllabic
+syllable delimiter	$	.	U+002E	syllable delimiter
+accent I	"	ˈ	U+02C8	stress
+accent II	""	ˈ̀	U+02C8U+0300	stress
+secondary stress	%	ˌ	U+02CC	stress
+phoneme delimiter				phoneme delimiter

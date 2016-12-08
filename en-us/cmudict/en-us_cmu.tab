@@ -1,47 +1,47 @@
-DESCRIPTION	CMU	IPA	CATEGORY
-pot	AA	ɒ	syllabic
-pat	AE	æ	syllabic
-cut	AH	ʌ	syllabic
+DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
+pot	AA	ɒ	U+0252	syllabic
+pat	AE	æ	U+00E6	syllabic
+cut	AH	ʌ	U+028C	syllabic
 #but: schwa is transcribed AH0 in CMU!!
-allow	AX	ə	syllabic
-cause	AO	ɔ	syllabic
-rouse	AW	a⁀ʊ	syllabic
-rise	AY	a⁀ɪ	syllabic
-bin	B	b	non syllabic
-chin	CH	t⁀ʃ	non syllabic
-din	D	d	non syllabic
-this	DH	ð	non syllabic
-pet	EH	ɛ	syllabic
-furs	ER	ɝ	syllabic
-raise	EY	e⁀ɪ	syllabic
-fin	F	f	non syllabic
-give	G	g	non syllabic
-hit	HH	h	non syllabic
-pit	IH	ɪ	syllabic
-ease	IY	i	syllabic
-gin	JH	d⁀ʒ	non syllabic
-kin	K	k	non syllabic
-long	L	l	non syllabic
-mock	M	m	non syllabic
-knock	N	n	non syllabic
-thing	NG	ŋ	non syllabic
-nose	OW	o⁀ʊ	syllabic
-noise	OY	ɔ⁀ɪ	syllabic
-pin	P	p	non syllabic
-wrong	R	r	non syllabic
-sin	S	s	non syllabic
-shin	SH	ʃ	non syllabic
-tin	T	t	non syllabic
-thin	TH	θ	non syllabic
-put	UH	ʊ	syllabic
-lose	UW	u	syllabic
-vim	V	v	non syllabic
-wasp	W	w	non syllabic
-yacht	Y	j	non syllabic
-zing	Z	z	non syllabic
-measure	ZH	ʒ	non syllabic
-syllable delimiter	$	.	syllable delimiter
-primary stress	1	ˈ	stress
-secondary stress	2	ˌ	stress
+allow	AX	ə	U+0259	syllabic
+cause	AO	ɔ	U+0254	syllabic
+rouse	AW	a⁀ʊ	U+0061U+2040U+028A	syllabic
+rise	AY	a⁀ɪ	U+0061U+2040U+026A	syllabic
+bin	B	b	U+0062	non syllabic
+chin	CH	t⁀ʃ	U+0074U+2040U+0283	non syllabic
+din	D	d	U+0064	non syllabic
+this	DH	ð	U+00F0	non syllabic
+pet	EH	ɛ	U+025B	syllabic
+furs	ER	ɝ	U+025D	syllabic
+raise	EY	e⁀ɪ	U+0065U+2040U+026A	syllabic
+fin	F	f	U+0066	non syllabic
+give	G	g	U+0067	non syllabic
+hit	HH	h	U+0068	non syllabic
+pit	IH	ɪ	U+026A	syllabic
+ease	IY	i	U+0069	syllabic
+gin	JH	d⁀ʒ	U+0064U+2040U+0292	non syllabic
+kin	K	k	U+006B	non syllabic
+long	L	l	U+006C	non syllabic
+mock	M	m	U+006D	non syllabic
+knock	N	n	U+006E	non syllabic
+thing	NG	ŋ	U+014B	non syllabic
+nose	OW	o⁀ʊ	U+006FU+2040U+028A	syllabic
+noise	OY	ɔ⁀ɪ	U+0254U+2040U+026A	syllabic
+pin	P	p	U+0070	non syllabic
+wrong	R	r	U+0072	non syllabic
+sin	S	s	U+0073	non syllabic
+shin	SH	ʃ	U+0283	non syllabic
+tin	T	t	U+0074	non syllabic
+thin	TH	θ	U+03B8	non syllabic
+put	UH	ʊ	U+028A	syllabic
+lose	UW	u	U+0075	syllabic
+vim	V	v	U+0076	non syllabic
+wasp	W	w	U+0077	non syllabic
+yacht	Y	j	U+006A	non syllabic
+zing	Z	z	U+007A	non syllabic
+measure	ZH	ʒ	U+0292	non syllabic
+syllable delimiter	$	.	U+002E	syllable delimiter
+primary stress	1	ˈ	U+02C8	stress
+secondary stress	2	ˌ	U+02CC	stress
 #no stress	0		stress
-phoneme delimiter	 		phoneme delimiter
+phoneme delimiter	 			phoneme delimiter
