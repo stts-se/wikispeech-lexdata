@@ -1,45 +1,45 @@
 DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
-pin /pIn/	p	p	U+0070	non syllabic
-bin /bIn/	t	t	U+0074	non syllabic
-tin /tIn/	k	k	U+006B	non syllabic
-din /dIn/	b	b	U+0062	non syllabic
-kin /kIn/	d	d	U+0064	non syllabic
-give /gIv/	g	g	U+0067	non syllabic
-chin /tSIn/	tS	t⁀ʃ	U+0074U+2040U+0283	non syllabic
-gin /dZIn/	dZ	d⁀ʒ	U+0064U+2040U+0292	non syllabic
-fin /fIn/	f	f	U+0066	non syllabic
-vim /vIm/	v	v	U+0076	non syllabic
-thin /TIn/	T	θ	U+03B8	non syllabic
-this /DIs/	D	ð	U+00F0	non syllabic
-sin /sIn/	s	s	U+0073	non syllabic
-zing /zIN/	z	z	U+007A	non syllabic
-shin /SIn/	S	ʃ	U+0283	non syllabic
-measure /"mEZ@`/	Z	ʒ	U+0292	non syllabic
-hit /hIt/	h	h	U+0068	non syllabic
-long /lON/	l	l	U+006C	non syllabic
-mock /mAk/	m	m	U+006D	non syllabic
-knock /nAk/	n	n	U+006E	non syllabic
-thing /TIN/	N	ŋ	U+014B	non syllabic
-wrong /rON/	r	r	U+0072	non syllabic
-wasp /wAsp/	w	w	U+0077	non syllabic
-yacht /jAt/	j	j	U+006A	non syllabic
-pot /pAt/	A	ɒ	U+0252	syllabic
-cause /kOz/	O	ɔ	U+0254	syllabic
-lose /luz/	u	u	U+0075	syllabic
-ease /iz/	i	i	U+0069	syllabic
-pat /p{t/	{	æ	U+00E6	syllabic
-cut /kVt/	V	ʌ	U+028C	syllabic
-pet /pEt/	E	ɛ	U+025B	syllabic
-pit /pIt/	I	ɪ	U+026A	syllabic
-put /pUt/	U	ʊ	U+028A	syllabic
-allow /@"laU/	@	ə	U+0259	syllabic
-furs /f3`z/	r=	ɝ	U+025D	syllabic
-rouse /raUz/	aU	a⁀ʊ	U+0061U+2040U+028A	syllabic
-noise /nOIz/	OI	ɔ⁀ɪ	U+0254U+2040U+026A	syllabic
-nose /n@Uz/	@U	o⁀ʊ	U+006FU+2040U+028A	syllabic
-raise /rEIz/	EI	e⁀ɪ	U+0065U+2040U+026A	syllabic
-rise /raIz/	AI	a⁀ɪ	U+0061U+2040U+026A	syllabic
-syllable delimiter	-	.	U+002E	syllable delimiter
-primary stress	'	ˈ	U+02C8	stress
-secondary stress	%	ˌ	U+02CC	stress
-phoneme delimiter	 			phoneme delimiter
+pin /pIn/	p	p	U+0070	NonSyllabic
+bin /bIn/	t	t	U+0074	NonSyllabic
+tin /tIn/	k	k	U+006B	NonSyllabic
+din /dIn/	b	b	U+0062	NonSyllabic
+kin /kIn/	d	d	U+0064	NonSyllabic
+give /gIv/	g	g	U+0067	NonSyllabic
+chin /tSIn/	tS	t⁀ʃ	U+0074U+2040U+0283	NonSyllabic
+gin /dZIn/	dZ	d⁀ʒ	U+0064U+2040U+0292	NonSyllabic
+fin /fIn/	f	f	U+0066	NonSyllabic
+vim /vIm/	v	v	U+0076	NonSyllabic
+thin /TIn/	T	θ	U+03B8	NonSyllabic
+this /DIs/	D	ð	U+00F0	NonSyllabic
+sin /sIn/	s	s	U+0073	NonSyllabic
+zing /zIN/	z	z	U+007A	NonSyllabic
+shin /SIn/	S	ʃ	U+0283	NonSyllabic
+measure /"mEZ@`/	Z	ʒ	U+0292	NonSyllabic
+hit /hIt/	h	h	U+0068	NonSyllabic
+long /lON/	l	l	U+006C	NonSyllabic
+mock /mAk/	m	m	U+006D	NonSyllabic
+knock /nAk/	n	n	U+006E	NonSyllabic
+thing /TIN/	N	ŋ	U+014B	NonSyllabic
+wrong /rON/	r	r	U+0072	NonSyllabic
+wasp /wAsp/	w	w	U+0077	NonSyllabic
+yacht /jAt/	j	j	U+006A	NonSyllabic
+pot /pAt/	A	ɒ	U+0252	Syllabic
+cause /kOz/	O	ɔ	U+0254	Syllabic
+lose /luz/	u	u	U+0075	Syllabic
+ease /iz/	i	i	U+0069	Syllabic
+pat /p{t/	{	æ	U+00E6	Syllabic
+cut /kVt/	V	ʌ	U+028C	Syllabic
+pet /pEt/	E	ɛ	U+025B	Syllabic
+pit /pIt/	I	ɪ	U+026A	Syllabic
+put /pUt/	U	ʊ	U+028A	Syllabic
+allow /@"laU/	@	ə	U+0259	Syllabic
+furs /f3`z/	r=	ɝ	U+025D	Syllabic
+rouse /raUz/	aU	a⁀ʊ	U+0061U+2040U+028A	Syllabic
+noise /nOIz/	OI	ɔ⁀ɪ	U+0254U+2040U+026A	Syllabic
+nose /n@Uz/	@U	o⁀ʊ	U+006FU+2040U+028A	Syllabic
+raise /rEIz/	EI	e⁀ɪ	U+0065U+2040U+026A	Syllabic
+rise /raIz/	AI	a⁀ɪ	U+0061U+2040U+026A	Syllabic
+SyllableDelimiter	-	.	U+002E	SyllableDelimiter
+primary Stress	'	ˈ	U+02C8	Stress
+secondary Stress	%	ˌ	U+02CC	Stress
+PhonemeDelimiter	 			PhonemeDelimiter

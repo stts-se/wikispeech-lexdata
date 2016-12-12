@@ -1,47 +1,47 @@
 DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
-pot	AA	ɒ	U+0252	syllabic
-pat	AE	æ	U+00E6	syllabic
-cut	AH	ʌ	U+028C	syllabic
+pot	AA	ɒ	U+0252	Syllabic
+pat	AE	æ	U+00E6	Syllabic
+cut	AH	ʌ	U+028C	Syllabic
 #but: schwa is transcribed AH0 in CMU!!
-allow	AX	ə	U+0259	syllabic
-cause	AO	ɔ	U+0254	syllabic
-rouse	AW	a⁀ʊ	U+0061U+2040U+028A	syllabic
-rise	AY	a⁀ɪ	U+0061U+2040U+026A	syllabic
-bin	B	b	U+0062	non syllabic
-chin	CH	t⁀ʃ	U+0074U+2040U+0283	non syllabic
-din	D	d	U+0064	non syllabic
-this	DH	ð	U+00F0	non syllabic
-pet	EH	ɛ	U+025B	syllabic
-furs	ER	ɝ	U+025D	syllabic
-raise	EY	e⁀ɪ	U+0065U+2040U+026A	syllabic
-fin	F	f	U+0066	non syllabic
-give	G	g	U+0067	non syllabic
-hit	HH	h	U+0068	non syllabic
-pit	IH	ɪ	U+026A	syllabic
-ease	IY	i	U+0069	syllabic
-gin	JH	d⁀ʒ	U+0064U+2040U+0292	non syllabic
-kin	K	k	U+006B	non syllabic
-long	L	l	U+006C	non syllabic
-mock	M	m	U+006D	non syllabic
-knock	N	n	U+006E	non syllabic
-thing	NG	ŋ	U+014B	non syllabic
-nose	OW	o⁀ʊ	U+006FU+2040U+028A	syllabic
-noise	OY	ɔ⁀ɪ	U+0254U+2040U+026A	syllabic
-pin	P	p	U+0070	non syllabic
-wrong	R	r	U+0072	non syllabic
-sin	S	s	U+0073	non syllabic
-shin	SH	ʃ	U+0283	non syllabic
-tin	T	t	U+0074	non syllabic
-thin	TH	θ	U+03B8	non syllabic
-put	UH	ʊ	U+028A	syllabic
-lose	UW	u	U+0075	syllabic
-vim	V	v	U+0076	non syllabic
-wasp	W	w	U+0077	non syllabic
-yacht	Y	j	U+006A	non syllabic
-zing	Z	z	U+007A	non syllabic
-measure	ZH	ʒ	U+0292	non syllabic
-syllable delimiter	$	.	U+002E	syllable delimiter
-primary stress	1	ˈ	U+02C8	stress
-secondary stress	2	ˌ	U+02CC	stress
-#no stress	0		stress
-phoneme delimiter	 			phoneme delimiter
+allow	AX	ə	U+0259	Syllabic
+cause	AO	ɔ	U+0254	Syllabic
+rouse	AW	a⁀ʊ	U+0061U+2040U+028A	Syllabic
+rise	AY	a⁀ɪ	U+0061U+2040U+026A	Syllabic
+bin	B	b	U+0062	NonSyllabic
+chin	CH	t⁀ʃ	U+0074U+2040U+0283	NonSyllabic
+din	D	d	U+0064	NonSyllabic
+this	DH	ð	U+00F0	NonSyllabic
+pet	EH	ɛ	U+025B	Syllabic
+furs	ER	ɝ	U+025D	Syllabic
+raise	EY	e⁀ɪ	U+0065U+2040U+026A	Syllabic
+fin	F	f	U+0066	NonSyllabic
+give	G	g	U+0067	NonSyllabic
+hit	HH	h	U+0068	NonSyllabic
+pit	IH	ɪ	U+026A	Syllabic
+ease	IY	i	U+0069	Syllabic
+gin	JH	d⁀ʒ	U+0064U+2040U+0292	NonSyllabic
+kin	K	k	U+006B	NonSyllabic
+long	L	l	U+006C	NonSyllabic
+mock	M	m	U+006D	NonSyllabic
+knock	N	n	U+006E	NonSyllabic
+thing	NG	ŋ	U+014B	NonSyllabic
+nose	OW	o⁀ʊ	U+006FU+2040U+028A	Syllabic
+noise	OY	ɔ⁀ɪ	U+0254U+2040U+026A	Syllabic
+pin	P	p	U+0070	NonSyllabic
+wrong	R	r	U+0072	NonSyllabic
+sin	S	s	U+0073	NonSyllabic
+shin	SH	ʃ	U+0283	NonSyllabic
+tin	T	t	U+0074	NonSyllabic
+thin	TH	θ	U+03B8	NonSyllabic
+put	UH	ʊ	U+028A	Syllabic
+lose	UW	u	U+0075	Syllabic
+vim	V	v	U+0076	NonSyllabic
+wasp	W	w	U+0077	NonSyllabic
+yacht	Y	j	U+006A	NonSyllabic
+zing	Z	z	U+007A	NonSyllabic
+measure	ZH	ʒ	U+0292	NonSyllabic
+SyllableDelimiter	$	.	U+002E	SyllableDelimiter
+primary Stress	1	ˈ	U+02C8	Stress
+secondary Stress	2	ˌ	U+02CC	Stress
+#no Stress	0		Stress
+PhonemeDelimiter	 			PhonemeDelimiter

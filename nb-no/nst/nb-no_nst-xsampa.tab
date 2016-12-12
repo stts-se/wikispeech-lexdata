@@ -1,65 +1,65 @@
 DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
-vin	i:	iː	U+0069U+02D0	syllabic
-sitt	I	ɪ	U+026A	syllabic
-ny	y:	yː	U+0079U+02D0	syllabic
-nytt	Y	ʏ	U+028F	syllabic
-lek	e:	eː	U+0065U+02D0	syllabic
-behage	@	ə	U+0259	syllabic
-løk	2:	øː	U+00F8U+02D0	syllabic
-høst	9	œ	U+0153	syllabic
-penn	E	ɛ	U+025B	syllabic
-vær	{:	æː	U+00E6U+02D0	syllabic
-vært	{	æ	U+00E6	syllabic
-hus	}:	ʉː	U+0289U+02D0	syllabic
-russ	u0	ʊ̈	U+028AU+0308	syllabic
-bod	u:	uː	U+0075U+02D0	syllabic
-fort	U	ʊ	U+028A	syllabic
-rå	o:	oː	U+006FU+02D0	syllabic
-gått	O	ɔ	U+0254	syllabic
-bad	A:	ɑː	U+0251U+02D0	syllabic
-hatt	A	ɑ	U+0251	syllabic
-#sau (in NST specs)	E*}	ɛ⁀ʊ̈	syllabic
-sau (in NST lex)	E*u0	ɛ⁀ʊ̈	U+025BU+2040U+028AU+0308	syllabic
-sei	{*I	ɛ⁀ɪ	U+025BU+2040U+026A	syllabic
-køye	9*Y	œ⁀ʏ	U+0153U+2040U+028F	syllabic
-kai	A*I	ɑ⁀ɪ	U+0251U+2040U+026A	syllabic
-konvoy	O*Y	ɔ⁀ɪ	U+0254U+2040U+026A	syllabic
+vin	i:	iː	U+0069U+02D0	Syllabic
+sitt	I	ɪ	U+026A	Syllabic
+ny	y:	yː	U+0079U+02D0	Syllabic
+nytt	Y	ʏ	U+028F	Syllabic
+lek	e:	eː	U+0065U+02D0	Syllabic
+behage	@	ə	U+0259	Syllabic
+løk	2:	øː	U+00F8U+02D0	Syllabic
+høst	9	œ	U+0153	Syllabic
+penn	E	ɛ	U+025B	Syllabic
+vær	{:	æː	U+00E6U+02D0	Syllabic
+vært	{	æ	U+00E6	Syllabic
+hus	}:	ʉː	U+0289U+02D0	Syllabic
+russ	u0	ʊ̈	U+028AU+0308	Syllabic
+bod	u:	uː	U+0075U+02D0	Syllabic
+fort	U	ʊ	U+028A	Syllabic
+rå	o:	oː	U+006FU+02D0	Syllabic
+gått	O	ɔ	U+0254	Syllabic
+bad	A:	ɑː	U+0251U+02D0	Syllabic
+hatt	A	ɑ	U+0251	Syllabic
+#sau (in NST specs)	E*}	ɛ⁀ʊ̈	Syllabic
+sau (in NST lex)	E*u0	ɛ⁀ʊ̈	U+025BU+2040U+028AU+0308	Syllabic
+sei	{*I	ɛ⁀ɪ	U+025BU+2040U+026A	Syllabic
+køye	9*Y	œ⁀ʏ	U+0153U+2040U+028F	Syllabic
+kai	A*I	ɑ⁀ɪ	U+0251U+2040U+026A	Syllabic
+konvoy	O*Y	ɔ⁀ɪ	U+0254U+2040U+026A	Syllabic
 #hui*	-		
 #show*	-		
 #how*	-		
-pil	p	p	U+0070	non syllabic
-bil	b	b	U+0062	non syllabic
-tid	t	t	U+0074	non syllabic
-dag	d	d	U+0064	non syllabic
-kost	k	k	U+006B	non syllabic
-gul	g	g	U+0067	non syllabic
-fin	f	f	U+0066	non syllabic
-vase	v	v	U+0076	non syllabic
-sil	s	s	U+0073	non syllabic
-hes	h	h	U+0068	non syllabic
-kino	C	ɕ	U+0255	non syllabic
-sju	S	ʃ	U+0283	non syllabic
-man	m	m	U+006D	non syllabic
-nord	n	n	U+006E	non syllabic
-eng	N	ŋ	U+014B	non syllabic
-rose	r	r	U+0072	non syllabic
-land	l	l	U+006C	non syllabic
-ja	j	j	U+006A	non syllabic
-stort	t`	ʈ	U+0288	non syllabic
-rekord	d`	ɖ	U+0256	non syllabic
-barn	n`	ɳ	U+0273	non syllabic
-perle	l`	ɭ	U+026D	non syllabic
-pers	s`	ʂ	U+0282	non syllabic
-#tsjekkisk	tS	t⁀ʃ	non syllabic
-#they*	-		non syllabic
-#thin*	-		non syllabic
-#Bach*	-		non syllabic
-handel	l=	l̩	U+006CU+0329	syllabic
-godtgjørelse	l`=	ɭ̩	U+026DU+0329	syllabic
-spaden	n=	n̩	U+006EU+0329	syllabic
-borden	n`=	ɳ̩	U+0273U+0329	syllabic
-syllable delimiter	$	.	U+002E	syllable delimiter
-accent I	"	ˈ	U+02C8	stress
-accent II	""	ˈ̀	U+02C8U+0300	stress
-secondary stress	%	ˌ	U+02CC	stress
-phoneme delimiter				phoneme delimiter
+pil	p	p	U+0070	NonSyllabic
+bil	b	b	U+0062	NonSyllabic
+tid	t	t	U+0074	NonSyllabic
+dag	d	d	U+0064	NonSyllabic
+kost	k	k	U+006B	NonSyllabic
+gul	g	g	U+0067	NonSyllabic
+fin	f	f	U+0066	NonSyllabic
+vase	v	v	U+0076	NonSyllabic
+sil	s	s	U+0073	NonSyllabic
+hes	h	h	U+0068	NonSyllabic
+kino	C	ɕ	U+0255	NonSyllabic
+sju	S	ʃ	U+0283	NonSyllabic
+man	m	m	U+006D	NonSyllabic
+nord	n	n	U+006E	NonSyllabic
+eng	N	ŋ	U+014B	NonSyllabic
+rose	r	r	U+0072	NonSyllabic
+land	l	l	U+006C	NonSyllabic
+ja	j	j	U+006A	NonSyllabic
+stort	t`	ʈ	U+0288	NonSyllabic
+rekord	d`	ɖ	U+0256	NonSyllabic
+barn	n`	ɳ	U+0273	NonSyllabic
+perle	l`	ɭ	U+026D	NonSyllabic
+pers	s`	ʂ	U+0282	NonSyllabic
+#tsjekkisk	tS	t⁀ʃ	NonSyllabic
+#they*	-		NonSyllabic
+#thin*	-		NonSyllabic
+#Bach*	-		NonSyllabic
+handel	l=	l̩	U+006CU+0329	Syllabic
+godtgjørelse	l`=	ɭ̩	U+026DU+0329	Syllabic
+spaden	n=	n̩	U+006EU+0329	Syllabic
+borden	n`=	ɳ̩	U+0273U+0329	Syllabic
+SyllableDelimiter	$	.	U+002E	SyllableDelimiter
+accent I	"	ˈ	U+02C8	Stress
+accent II	""	ˈ̀	U+02C8U+0300	Stress
+secondary Stress	%	ˌ	U+02CC	Stress
+PhonemeDelimiter				PhonemeDelimiter
