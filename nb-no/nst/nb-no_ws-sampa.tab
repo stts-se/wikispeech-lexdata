@@ -52,11 +52,11 @@ garn /gA:rn/	rn	ɳ	U+0273	NonSyllabic
 #blå /brLO:/	rL	???	NonSyllabic		
 # /rs/ not in ACL SAMPA					
 fors /fOrs/	rs	ʂ	U+0282	NonSyllabic
-SyllableDelimiter	.	.	U+002E	SyllableDelimiter
+syllable delimiter	.	.	U+002E	SyllableDelimiter
 accent I	"	ˈ	U+02C8	Stress
 accent II	""	ˈ̀	U+02C8U+0300	Stress
-secondary Stress	%	ˌ	U+02CC	Stress
-PhonemeDelimiter	 			PhonemeDelimiter
+secondary stress	%	ˌ	U+02CC	Stress
+phoneme delimiter	 			PhonemeDelimiter
 # compound delimiter	-		CompoundDelimiter		
 
 # syllabified consonants not in ACL sampa...

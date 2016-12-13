@@ -48,9 +48,9 @@ hot	h	h	U+0068	NonSyllabic
 porla	rl	ɭ	U+026D	NonSyllabic
 jord	j	j	U+006A	NonSyllabic
 #schlager	n/a	ʃ	NonSyllabic
-SyllableDelimiter	.	.	U+002E	SyllableDelimiter
+syllable delimiter	.	.	U+002E	SyllableDelimiter
 accent I	"	ˈ	U+02C8	Stress
 accent II	""	ˈ̀	U+02C8U+0300	Stress
-secondary Stress	%	ˌ	U+02CC	Stress
-PhonemeDelimiter	 			PhonemeDelimiter
+secondary stress	%	ˌ	U+02CC	Stress
+phoneme delimiter	 			PhonemeDelimiter
 #compound delimiter	-		CompoundDelimiter
