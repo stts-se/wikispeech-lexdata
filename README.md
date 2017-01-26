@@ -2,7 +2,7 @@
 
 ## The CMU Pronouncing Dictionary (US English)
 
-File name: `en-us/cmudict/cmudict-0.7b.phones.txt.utf8`
+File name: `cmudict-0.7b-ws.utf8`
 
  * Fetched from http://www.speech.cs.cmu.edu/cgi-bin/cmudict 2016-08-23
  * Converted from Latin-1 to utf-8
