@@ -1,0 +1,59 @@
+DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
+sil	aa	iː	U+0069U+02D0	Syllabic
+sil	a	iː	U+0069U+02D0	Syllabic
+sil	AA	iː	U+0069U+02D0	Syllabic
+sil	A	iː	U+0069U+02D0	Syllabic
+sil	uu0	iː	U+0069U+02D0	Syllabic
+sil	u0	iː	U+0069U+02D0	Syllabic
+sil	UU0	iː	U+0069U+02D0	Syllabic
+sil	U0	iː	U+0069U+02D0	Syllabic
+sil	uu1	iː	U+0069U+02D0	Syllabic
+sil	u1	iː	U+0069U+02D0	Syllabic
+sil	UU1	iː	U+0069U+02D0	Syllabic
+sil	U1	iː	U+0069U+02D0	Syllabic
+sil	ii0	iː	U+0069U+02D0	Syllabic
+sil	i0	iː	U+0069U+02D0	Syllabic
+sil	II0	iː	U+0069U+02D0	Syllabic
+sil	I0	iː	U+0069U+02D0	Syllabic
+sil	ii1	iː	U+0069U+02D0	Syllabic
+sil	i1	iː	U+0069U+02D0	Syllabic
+sil	II1	iː	U+0069U+02D0	Syllabic
+sil	I1	iː	U+0069U+02D0	Syllabic
+bok	<	b	U+0062	NonSyllabic
+bok	b	b	U+0062	NonSyllabic
+bok	t	b	U+0062	NonSyllabic
+bok	^	b	U+0062	NonSyllabic
+bok	j	b	U+0062	NonSyllabic
+bok	H	b	U+0062	NonSyllabic
+bok	x	b	U+0062	NonSyllabic
+bok	d	b	U+0062	NonSyllabic
+bok	*	b	U+0062	NonSyllabic
+bok	r	b	U+0062	NonSyllabic
+bok	z	b	U+0062	NonSyllabic
+bok	s	b	U+0062	NonSyllabic
+bok	$	b	U+0062	NonSyllabic
+bok	S	b	U+0062	NonSyllabic
+bok	D	b	U+0062	NonSyllabic
+bok	T	b	U+0062	NonSyllabic
+bok	Z	b	U+0062	NonSyllabic
+bok	E	b	U+0062	NonSyllabic
+bok	g	b	U+0062	NonSyllabic
+bok	f	b	U+0062	NonSyllabic
+bok	q	b	U+0062	NonSyllabic
+bok	k	b	U+0062	NonSyllabic
+bok	l	b	U+0062	NonSyllabic
+bok	m	b	U+0062	NonSyllabic
+bok	n	b	U+0062	NonSyllabic
+bok	h	b	U+0062	NonSyllabic
+bok	w	b	U+0062	NonSyllabic
+bok	y	b	U+0062	NonSyllabic
+
+bok	v	b	U+0062	NonSyllabic
+bok	p	b	U+0062	NonSyllabic
+bok	G	b	U+0062	NonSyllabic
+
+syllable delimiter	.	.	U+002E	SyllableDelimiter
+stress	'	ˈ	U+02C8	Stress
+secondary stress	%	ˌ	U+02CC	Stress
+phoneme delimiter	 			PhonemeDelimiter
+#compound delimiter	-		CompoundDelimiter
