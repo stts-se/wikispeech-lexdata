@@ -1,0 +1,60 @@
+DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
+LONG A, >aboH(aA)^i	aa	aː	U+0061U+02D0	Syllabic
+SHORT A, w(a)r(a)j~aH(a)	a	a	U+0061	Syllabic
+EMPH LONG A, <iD(aA)fapF	AA	ɑː	U+0251U+02D0	Syllabic
+EMPH SHORT A, waraj~(a)Ha, Alt~(a)S(a)H~uri	A	ɑ	U+0251	Syllabic
+LONG U, liloEul(uw)mi	uu0	uː	U+0075U+02D0	Syllabic
+SHORT U, Alt~aqoriyr(u)	u0	u	U+0075	Syllabic
+EMPH LONG U (IPA?), Alr~uT(uw)bapi	UU0	ʊː	U+028AU+02D0	Syllabic
+EMPH SHORT U (IPA?), Alr~(u)Tuwbapi	U0	ʊ	U+028A	Syllabic
+LONG O, AboraAh(iy)muwfiyto$	uu1	oː	U+006FU+02D0	Syllabic
+SHORT O, Alo>anodul(u)so	u1	o	U+006F	Syllabic
+EMPH LONG O (IPA?), g(uw)no^oro (?), AlS~(uw)yaA	UU1	ɔː	U+0254U+02D0	Syllabic
+EMPH SHORT O (IPA?), ArotibaAT(N), waEi$oq(N)	U1	ɔ	U+0254	Syllabic
+LONG I, Alt~aqor(iy)ru	ii0	iː	U+0069U+02D0	Syllabic
+SHORT I, Al~a*(iy), Alo<(i)rot(i)faAE(i)	i0	i	U+0069	Syllabic
+EMPH LONG I (IPA?), AlS~(iy)niy~api	II0	ɪː	U+026AU+02D0	Syllabic
+EMPH SHORT I (IPA?), >ay~ux(i)l~a	I0	ɪ	U+026A	Syllabic
+LONG E, j(iy)oramAnu, saraAy(iy)fuw	ii1	eː	U+0065U+02D0	Syllabic
+SHORT E, Alt~(i)biti	i1	e	U+0065	Syllabic
+EMPH LONG E (IPA?) (no example)	II1	ɛː	U+025BU+02D0	Syllabic
+EMPH SHORT E (IPA?), xuTuwT(K), niqaAT(K)	I1	ɛ	U+025B	Syllabic
+
+GLOTTAL STOP, (>)aEad~ahu	<	ʔ	U+0294	NonSyllabic
+B, haDa(b)api	b	b	U+0062	NonSyllabic
+T, (t)aso(t)amir~a	t	t	U+0074	NonSyllabic
+VOICELESS TH (non-standard buckwalter, ^ -> v), >aboHaA^i	^	θ	U+03B8	NonSyllabic
+dara(j)aAtu	j	d⁀ʒ	U+0064U+2040U+0292	NonSyllabic
+waraj~a(H)a	H	ħ	U+0127	NonSyllabic
+>ay~u(x)il~a	x	x	U+0078	NonSyllabic
+maEoha(d)u	d	d	U+0064	NonSyllabic
+VOICED TH, Al~a(*)iy	*	ð	U+00F0	NonSyllabic
+wa(r)aj~aHa	r	r	U+0072	NonSyllabic
+>a(z)oyaA'i	z	z	U+007A	NonSyllabic
+ta(s)otamir~a	s	s	U+0073	NonSyllabic
+waAnoti($)aAri	$	ʃ	U+0283	NonSyllabic
+Alt~a(S)aH~uri	S	sˤ	U+0073U+02C1	NonSyllabic
+ha(D)abapi	D	dˤ	U+0064U+02C1	NonSyllabic
+Alr~u(T)uwbapi	T	tˤ	U+0074U+02C1	NonSyllabic
+wa(Z)aA}ifi	Z	zˤ	U+007AU+02C1	NonSyllabic
+>a(E)ad~ahu	E	ʕ	U+0295	NonSyllabic
+waAlo>a(g)oTiyapi	g	ɣ	U+0263	NonSyllabic
+Alo<iroti(f)aAEi	f	f	U+0066	NonSyllabic
+Alt~a(q)oriyru	q	q	U+0071	NonSyllabic
+Alo>a(k)aAdiymiy~api	k	k	U+006B	NonSyllabic
+(l)i(l)oEu(l)uwmi	l	l	U+006C	NonSyllabic
+(m)aEohadu	m	m	U+006D	NonSyllabic
+AlS~iy(n)iy~api	n	n	U+006E	NonSyllabic
+>aEad~a(h)u	h	h	U+0068	NonSyllabic
+(w)araj~aHa	w	w	U+0077	NonSyllabic
+AlS~iyni(y~)api	y	j	U+006A	NonSyllabic
+
+AboraAhiymuw(f)iyto$	v	v	U+0076	NonSyllabic
+nuw(b)alo	p	p	U+0070	NonSyllabic
+Alo<ino(j)liyziy~api 	G	g	U+0067	NonSyllabic
+
+syllable delimiter	.	.	U+002E	SyllableDelimiter
+stress	'	ˈ	U+02C8	Stress
+secondary stress	%	ˌ	U+02CC	Stress
+phoneme delimiter	 			PhonemeDelimiter
+#compound delimiter	-		CompoundDelimiter
