@@ -53,6 +53,39 @@ AboraAhiymuw(f)iyto$	v	v	U+0076	NonSyllabic
 nuw(b)alo	p	p	U+0070	NonSyllabic
 Alo<ino(j)liyziy~api 	g	g	U+0067	NonSyllabic
 
+>~	>:	ʔː	U+0294U+02D0	NonSyllabic
+b~	b:	bː	U+0062U+02D0	NonSyllabic
+t~	t:	tː	U+0074U+02D0	NonSyllabic
+^~	th:	θː	U+03B8U+02D0	NonSyllabic
+j~	j:	d⁀ʒː	U+0064U+2040U+0292U+02D0	NonSyllabic
+H~	H:	ħː	U+0127U+02D0	NonSyllabic
+x~	x:	xː	U+0078U+02D0	NonSyllabic
+d~	d:	dː	U+0064U+02D0	NonSyllabic
+*~	dh:	ðː	U+00F0U+02D0	NonSyllabic
+r~	r:	rː	U+0072U+02D0	NonSyllabic
+z~	z:	zː	U+007AU+02D0	NonSyllabic
+s~	s:	sː	U+0073U+02D0	NonSyllabic
+$~	sh:	ʃː	U+0283U+02D0	NonSyllabic
+S~	S:	sˤː	U+0073U+02E4U+02D0	NonSyllabic
+D~	D:	dˤː	U+0064U+02E4U+02D0	NonSyllabic
+T~	T:	tˤː	U+0074U+02E4U+02D0	NonSyllabic
+Z~	Z:	zˤː	U+007AU+02E4U+02D0	NonSyllabic
+E~	<:	ʕː	U+0295U+02D0	NonSyllabic
+g~	G:	ɣː	U+0263U+02D0	NonSyllabic
+f~	f:	fː	U+0066U+02D0	NonSyllabic
+q~	q:	qː	U+0071U+02D0	NonSyllabic
+k~	k:	kː	U+006BU+02D0	NonSyllabic
+l~	l:	lː	U+006CU+02D0	NonSyllabic
+m~	m:	mː	U+006DU+02D0	NonSyllabic
+n~	n:	nː	U+006EU+02D0	NonSyllabic
+h~	h:	hː	U+0068U+02D0	NonSyllabic
+w~	w:	wː	U+0077U+02D0	NonSyllabic
+y~	y:	jː	U+006AU+02D0	NonSyllabic
+
+f~ (vv, not found)	v:	vː	U+0076U+02D0	NonSyllabic
+>uw(b~)iraA	p:	pː	U+0070U+02D0	NonSyllabic
+muSa(g~)arapF 	g:	gː	U+0067U+02D0	NonSyllabic
+
 syllable delimiter	.	.	U+002E	SyllableDelimiter
 stress	'	ˈ	U+02C8	Stress
 secondary stress	%	ˌ	U+02CC	Stress
