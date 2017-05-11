@@ -39,7 +39,7 @@ noise /nOIz/	OI	ɔ⁀ɪ	U+0254U+2040U+026A	Syllabic
 nose /n@Uz/	@U	o⁀ʊ	U+006FU+2040U+028A	Syllabic
 raise /rEIz/	EI	e⁀ɪ	U+0065U+2040U+026A	Syllabic
 rise /raIz/	AI	a⁀ɪ	U+0061U+2040U+026A	Syllabic
-syllable delimiter	-	.	U+002E	SyllableDelimiter
+syllable delimiter	.	.	U+002E	SyllableDelimiter
 primary stress	'	ˈ	U+02C8	Stress
 secondary stress	%	ˌ	U+02CC	Stress
 phoneme delimiter	 			PhonemeDelimiter

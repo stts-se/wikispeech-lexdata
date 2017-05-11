@@ -40,7 +40,7 @@ wasp	W	w	U+0077	NonSyllabic
 yacht	Y	j	U+006A	NonSyllabic
 zing	Z	z	U+007A	NonSyllabic
 measure	ZH	ʒ	U+0292	NonSyllabic
-#syllable delimiter	$	.	U+002E	SyllableDelimiter
+syllable delimiter	$	.	U+002E	SyllableDelimiter
 primary stress	1	ˈ	U+02C8	Stress
 secondary stress	2	ˌ	U+02CC	Stress
 #no stress	0		Stress
