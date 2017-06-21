@@ -1,0 +1,30 @@
+FROM	en-us_ws-sampa
+TO	sv-se_ws-sampa
+
+RE	^T	t
+
+SYMBOL	dZ	d j
+SYMBOL	tS	t rs
+SYMBOL	i	I
+SYMBOL	D	d
+SYMBOL	T	t
+SYMBOL	S	rs
+SYMBOL	z	s
+SYMBOL	Z	s
+SYMBOL	w	v
+SYMBOL	A	a
+SYMBOL	u	U
+SYMBOL	V	a
+SYMBOL	r=	@ r
+SYMBOL	aU	au
+SYMBOL	OI	O j
+SYMBOL	@U	u:
+SYMBOL	EI	e j
+SYMBOL	AI	a j
+SYMBOL	'	"
+
+
+
+TEST	T i s	t I s
+TEST	D i s	d I s
+
