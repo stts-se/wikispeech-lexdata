@@ -3,5 +3,3 @@ TEST	" au . l a	' a*U - l a
 
 MAPPER	sv-se_sampa_mary	sv-se_ws-sampa
 TEST	' a*U - l a	" au . l a
-
-#MAPPER	en-us_ws-sampa-exo	sv-se_ws-sampa-exo
