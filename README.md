@@ -30,10 +30,4 @@ File name: `nb-no/nst/nor030224NST.pron-ws.utf8.gz`
 
 ---
 
-### [Lexicon server setup scripts and instructions](https://github.com/stts-se/pronlex/blob/master/install/README.md)
-Includes instructions and scripts for setting up go, installing source code, downloading lexicon resources, creating a lexicon database, and importing the lexicon resources.
-
-Links to the [pronlex](https://github.com/stts-se/pronlex) repository.
-
-
 ### [For reference: Steps taken to generate lexicon files in this repository](https://github.com/stts-se/lexdata/wiki/Steps-taken-to-generate-lexicon-resources-in-this-repository)
