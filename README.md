@@ -25,5 +25,15 @@ File name: `nb-no/nst/nor030224NST.pron-ws.utf8.gz`
 
  * Fetched from http://www.nb.no/sbfil/leksikalske_databaser/leksikon/no.leksikon.tar.gz 2016-08-25
  * Converted from Latin-1 to utf-8
- * Converted to Wikispeech-internal format, and transcriptions mapped to nb-no WS-SAMPA
- 
+* Converted to Wikispeech-internal format, and transcriptions mapped to nb-no WS-SAMPA
+
+# Server installation
+
+## [Lexicon server setup scripts and instructions](https://github.com/stts-se/pronlex/blob/master/install/README.md)
+Includes instructions and scripts for setting up go, installing source code, downloading lexicon resources, creating a lexicon database, and importing the lexicon resources.
+
+Links to the [pronlex](https://github.com/stts-se/pronlex) repository.
+
+# Reference info
+
+## [For reference: Steps taken to generate lexicon files in this repository](https://github.com/stts-se/lexdata/wiki/Steps-taken-to-generate-lexicon-resources-in-this-repository)
