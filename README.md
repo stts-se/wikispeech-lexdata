@@ -19,7 +19,7 @@ File name: `sv-se/nst/swe030224NST.pron-ws.utf8.gz`
  * Converted from Latin-1 to utf-8
  * Converted to Wikispeech-internal format, and transcriptions mapped to sv-se WS-SAMPA
  
-[Reference: steps taken to convert the Wikispeech format](https://github.com/stts-se/lexdata/blob/master/sv-se/nst/README.md)
+[Reference: steps taken to convert to Wikispeech format](https://github.com/stts-se/lexdata/blob/master/sv-se/nst/README.md)
 
 
 ## NST Bokmål Pronouncing Dictionary (Norwegian Bokmål/Norway)
@@ -30,7 +30,7 @@ File name: `nb-no/nst/nor030224NST.pron-ws.utf8.gz`
  * Converted from Latin-1 to utf-8
 * Converted to Wikispeech-internal format, and transcriptions mapped to nb-no WS-SAMPA
 
-[Reference: steps taken to convert the Wikispeech format](https://github.com/stts-se/lexdata/blob/master/nb-no/nst/README.md)
+[Reference: steps taken to convert to Wikispeech format](https://github.com/stts-se/lexdata/blob/master/nb-no/nst/README.md)
 
 
 
