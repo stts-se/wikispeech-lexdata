@@ -36,6 +36,4 @@ File name: `nb-no/nst/nor030224NST.pron-ws.utf8.gz`
 
 ---
 
-### [For reference: Steps taken to generate lexicon files in this repository](https://github.com/stts-se/lexdata/wiki/Steps-taken-to-generate-lexicon-resources-in-this-repository)
-
 ### [Description of the Wikispeech lexicon file format](https://godoc.org/github.com/stts-se/pronlex/line)
