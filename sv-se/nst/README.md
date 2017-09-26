@@ -4,7 +4,7 @@ Steps taken to generate lexicon resources in this repository.
 
 All lexicon resources here are based on publicly available resources.
 
-NST Swedish pronunciation lexicon downloaded 2017-09-26-08-23
+NST Swedish pronunciation lexicon downloaded 2017-09-26
 
 http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-22&lang=nb
 
