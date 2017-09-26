@@ -12,7 +12,7 @@ http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-23&lang=nb
 
  2. Unpacked file:
 
-  `$ tar xzvf no.leksikon.tar.gz`
+    `$ tar xzvf no.leksikon.tar.gz`
 
  3. Converted `nor030224NST.pron` to `nor030224NST.pron.utf8` using the following command (or similar):
     
