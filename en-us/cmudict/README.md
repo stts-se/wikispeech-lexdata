@@ -4,7 +4,6 @@ Steps taken to generate lexicon resources in this repository.
 
 All lexicon resources here are based on publicly available resources.
 
-### CMU dict
 US English lexicon downloaded 2016-09-23
 
 http://www.speech.cs.cmu.edu/cgi-bin/cmudict
