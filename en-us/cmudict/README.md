@@ -15,8 +15,8 @@ http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 
  3. Converted file to Wikispeech format (incl syllable boundaries) using `go` package `pronlex/cmd/lexio/convert/CMU2WS`:
 
-    `$ go run CMU2WS.go cmudict-0.7b.utf8 en-us_cmu.sym en-us_ws-sampa.sym enu_cmu_syll.g2p > cmudict-0.7b-ws.utf8`
-
+    `$ go run CMU2WS.go cmudict-0.7b.utf8 en-us_cmu.sym en-us_ws-sampa.sym enu_cmu.syll > cmudict-0.7b-ws.utf8`
+    
  4. Uploaded `cmudict-0.7b-ws.utf8` to git: `lexdata/en-us/cmudict/` 2017-05-09
 
 Update 2017-02-17: new line format  
