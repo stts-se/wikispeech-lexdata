@@ -1,0 +1,68 @@
+DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
+#http://www.phon.ucl.ac.uk/home/sampa/norweg.htm					
+hopp /hOp/	p	p	U+0070	NonSyllabic
+labb /lAb/	b	b	U+0062	NonSyllabic
+lat /lA:t/	t	t	U+0074	NonSyllabic
+ladd /lAd/	d	d	U+0064	NonSyllabic
+takk /tAk/	k	k	U+006B	NonSyllabic
+tagg /tAg/	g	g	U+0067	NonSyllabic
+fin /fi:n/	f	f	U+0066	NonSyllabic
+vin /vi:n/	v	v	U+0076	NonSyllabic
+lass /lAs/	s	s	U+0073	NonSyllabic
+skyt /Sy:t/	S	ʃ	U+0283	NonSyllabic
+kino /Ci:nu/	C	ɕ	U+0255	NonSyllabic
+gi /ji:/	j	j	U+006A	NonSyllabic
+ha /hA:/	h	h	U+0068	NonSyllabic
+lam /lAm/	m	m	U+006D	NonSyllabic
+vann /vAn/	n	n	U+006E	NonSyllabic
+sang /sAN/	N	ŋ	U+014B	NonSyllabic
+fall /fAl/	l	l	U+006C	NonSyllabic
+prøv /pr2:v/	r	r	U+0072	NonSyllabic
+vin /vi:n/	i:	iː	U+0069U+02D0	Syllabic
+sen /se:n/	e:	eː	U+0065U+02D0	Syllabic
+vær /v{:r/	{:	æː	U+00E6U+02D0	Syllabic
+hat /hA:t/	A:	ɑː	U+0251U+02D0	Syllabic
+lyn /ly:n/	y:	yː	U+0079U+02D0	Syllabic
+søt /s2:t/	2:	øː	U+00F8U+02D0	Syllabic
+våt /vO:t/	O:	oː	U+006FU+02D0	Syllabic
+bok /bu:k/	u:	uː	U+0075U+02D0	Syllabic
+lun /l}:n/	}:	ʉː	U+0289U+02D0	Syllabic
+vind /vin/	i	ɪ	U+026A	Syllabic
+send /sen/	e	ɛ	U+025B	Syllabic
+vært /v{rt/	{	æ	U+00E6	Syllabic
+hatt /hAt/	A	ɑ	U+0251	Syllabic
+lynne /lyne/	y	ʏ	U+028F	Syllabic
+søtt /s2t/	2	œ	U+0153	Syllabic
+vått /vOt/	O	ɔ	U+0254	Syllabic
+bukk /buk/	u	ʊ	U+028A	Syllabic
+lund /l}n/	}	ʊ̈	U+028AU+0308	Syllabic
+# /@/ not in ACL SAMPA					
+bøner /b2n@r/	@	ə	U+0259	Syllabic
+vei /v{i/	{i	ɛ⁀ɪ	U+025BU+2040U+026A	Syllabic
+høy /h2y/	2y	œ⁀ʏ	U+0153U+2040U+028F	Syllabic
+sau /sA}/	A}	ɛ⁀ʊ̈	U+025BU+2040U+028AU+0308	Syllabic
+kai /kAi/	Ai	ɑ⁀ɪ	U+0251U+2040U+026A	Syllabic
+konvoy /kunvOy/	Oy	ɔ⁀ɪ	U+0254U+2040U+026A	Syllabic
+#hui /h}i/	}i	ʊ̈⁀ɪ	Syllabic		
+#hoi /hui/	ui	ʊ⁀ɪ	Syllabic		
+hardt /hArt/	rt	ʈ	U+0288	NonSyllabic
+verdi /v{rdi:/	rd	ɖ	U+0256	NonSyllabic
+ærlig /{:rli/	rl	ɭ	U+026D	NonSyllabic
+garn /gA:rn/	rn	ɳ	U+0273	NonSyllabic
+#blå /brLO:/	rL	???	NonSyllabic		
+# /rs/ not in ACL SAMPA					
+fors /fOrs/	rs	ʂ	U+0282	NonSyllabic
+syllable delimiter	-	.	U+002E	SyllableDelimiter
+accent I	'	ˈ	U+02C8	Stress
+accent II	"	ˈ̀	U+02C8U+0300	Stress
+secondary stress	%	ˌ	U+02CC	Stress
+phoneme delimiter	 			PhonemeDelimiter
+# compound delimiter	-		CompoundDelimiter		
+
+# syllabified consonants not in ACL sampa...
+handel	l=	l̩	U+006CU+0329	Syllabic
+godtgjørelse	l`=	ɭ̩	U+026DU+0329	Syllabic
+spaden	n=	n̩	U+006EU+0329	Syllabic
+borden	n`=	ɳ̩	U+0273U+0329	Syllabic
+
+
