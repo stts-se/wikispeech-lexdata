@@ -24,34 +24,34 @@ vær /v{:r/	{:	æː	U+00E6U+02D0	Syllabic
 hat /hA:t/	A:	ɑː	U+0251U+02D0	Syllabic
 lyn /ly:n/	y:	yː	U+0079U+02D0	Syllabic
 søt /s2:t/	2:	øː	U+00F8U+02D0	Syllabic
-våt /vO:t/	O:	oː	U+006FU+02D0	Syllabic
+våt /vO:t/	o:	oː	U+006FU+02D0	Syllabic
 bok /bu:k/	u:	uː	U+0075U+02D0	Syllabic
 lun /l}:n/	}:	ʉː	U+0289U+02D0	Syllabic
-vind /vin/	i	ɪ	U+026A	Syllabic
-send /sen/	e	ɛ	U+025B	Syllabic
+vind /vin/	I	ɪ	U+026A	Syllabic
+send /sen/	E	ɛ	U+025B	Syllabic
 vært /v{rt/	{	æ	U+00E6	Syllabic
 hatt /hAt/	A	ɑ	U+0251	Syllabic
-lynne /lyne/	y	ʏ	U+028F	Syllabic
-søtt /s2t/	2	œ	U+0153	Syllabic
+lynne /lyne/	Y	ʏ	U+028F	Syllabic
+søtt /s2t/	9	œ	U+0153	Syllabic
 vått /vOt/	O	ɔ	U+0254	Syllabic
-bukk /buk/	u	ʊ	U+028A	Syllabic
-lund /l}n/	}	ʊ̈	U+028AU+0308	Syllabic
+bukk /buk/	U	ʊ	U+028A	Syllabic
+lund /l}n/	u0	ʊ̈	U+028AU+0308	Syllabic
 # /@/ not in ACL SAMPA					
 bøner /b2n@r/	@	ə	U+0259	Syllabic
-vei /v{i/	{i	ɛ⁀ɪ	U+025BU+2040U+026A	Syllabic
-høy /h2y/	2y	œ⁀ʏ	U+0153U+2040U+028F	Syllabic
-sau /sA}/	A}	ɛ⁀ʊ̈	U+025BU+2040U+028AU+0308	Syllabic
-kai /kAi/	Ai	ɑ⁀ɪ	U+0251U+2040U+026A	Syllabic
-konvoy /kunvOy/	Oy	ɔ⁀ɪ	U+0254U+2040U+026A	Syllabic
-#hui /h}i/	}i	ʊ̈⁀ɪ	Syllabic		
-#hoi /hui/	ui	ʊ⁀ɪ	Syllabic		
-hardt /hArt/	rt	ʈ	U+0288	NonSyllabic
-verdi /v{rdi:/	rd	ɖ	U+0256	NonSyllabic
-ærlig /{:rli/	rl	ɭ	U+026D	NonSyllabic
-garn /gA:rn/	rn	ɳ	U+0273	NonSyllabic
-#blå /brLO:/	rL	???	NonSyllabic		
+vei /v{i/	{*I	ɛ⁀ɪ	U+025BU+2040U+026A	Syllabic
+høy /h2y/	9*Y	œ⁀ʏ	U+0153U+2040U+028F	Syllabic
+sau /sA}/	E*u0	ɛ⁀ʊ̈	U+025BU+2040U+028AU+0308	Syllabic
+kai /kAi/	A*I	ɑ⁀ɪ	U+0251U+2040U+026A	Syllabic
+konvoy /kunvOy/	O*Y	ɔ⁀ɪ	U+0254U+2040U+026A	Syllabic
+#hui /h}i/	}*I	ʊ̈⁀ɪ	Syllabic		
+#hoi /hui/	u*I	ʊ⁀ɪ	Syllabic		
+hardt /hArt/	t`	ʈ	U+0288	NonSyllabic
+verdi /v{rdi:/	d`	ɖ	U+0256	NonSyllabic
+ærlig /{:rli/	l`	ɭ	U+026D	NonSyllabic
+garn /gA:rn/	n`	ɳ	U+0273	NonSyllabic
+#blå /brLO:/	L`	???	NonSyllabic		
 # /rs/ not in ACL SAMPA					
-fors /fOrs/	rs	ʂ	U+0282	NonSyllabic
+fors /fOrs/	s`	ʂ	U+0282	NonSyllabic
 syllable delimiter	-	.	U+002E	SyllableDelimiter
 accent I	'	ˈ	U+02C8	Stress
 accent II	"	ˈ̀	U+02C8U+0300	Stress
