@@ -37,4 +37,4 @@ Update 2017-11-14: new line format
 
 ---
 
-Dependency: https://github.com/stts-se/pronle
+Dependency: https://github.com/stts-se/pronlex
