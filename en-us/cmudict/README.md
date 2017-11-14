@@ -22,6 +22,7 @@ http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 Update 2017-02-17: new line format  
 Update 2017-05-09: new mapper file (ws-sampa) and corrected mapping for secondary stress  
 Update 2017-05-11: updated filter for stress placement, and added syllable boundaries  
+Update 2017-11-14: new line format   
 
 N.B.! The g2p file above is found in the new git repos rb2gp: https://github.com/stts-se/rbg2p/blob/master/server/g2p_files/enu_cmu_syll.g2p
 
