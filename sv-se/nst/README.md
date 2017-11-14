@@ -28,11 +28,11 @@ http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-22&lang=nb
 
  5. Gzipped and uploaded `swe030224NST.pron-ws.utf8.gz` to git: `lexdata/sv-se/nst` 2017-09-26
 
-Update 2016-10-28: added r-colored vowels   
+Update 2016-10-28: added conversion to r-colored vowels to the svSeNST2WS.go script   
 Update 2017-02-17: new line format   
 Update 2017-05-29: small update (moved one instance of secondary stress)   
-Update 2017-09-26: removed some roman numerals ("C" transcribed like "100", "VI" as "6", etc)   
-Update 2017-09-26: removed lines with GARB tags   
+Update 2017-09-26: removed some roman numerals ("C" transcribed like "100", "VI" as "6", etc) [in conversion script]   
+Update 2017-09-26: removed lines with GARB tags [in conversion script]   
 
 ---
 
