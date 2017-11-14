@@ -33,6 +33,7 @@ Update 2017-02-17: new line format
 Update 2017-05-29: small update (moved one instance of secondary stress)   
 Update 2017-09-26: removed some roman numerals ("C" transcribed like "100", "VI" as "6", etc) [in conversion script]   
 Update 2017-09-26: removed lines with GARB tags [in conversion script]   
+Update 2017-11-14: new line format   
 
 ---
 
