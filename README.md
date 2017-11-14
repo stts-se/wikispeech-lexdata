@@ -6,7 +6,7 @@ File name: `cmudict-0.7b-ws.utf8`
 
  * Fetched from http://www.speech.cs.cmu.edu/cgi-bin/cmudict
  * Converted from Latin-1 to utf-8
- * Converted to Wikispeech-internal format, and transcriptions mapped to en-us MARY-SAMPA
+ * Converted to Wikispeech-internal format, and transcriptions mapped to en-us WS-SAMPA
 
 [Reference: steps taken to convert to Wikispeech format](https://github.com/stts-se/lexdata/blob/master/en-us/cmudict/README.md)
 
