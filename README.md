@@ -4,7 +4,7 @@
 
 File name: `cmudict-0.7b-ws.utf8`
 
- * Fetched from http://www.speech.cs.cmu.edu/cgi-bin/cmudict 2016-08-23
+ * Fetched from http://www.speech.cs.cmu.edu/cgi-bin/cmudict
  * Converted from Latin-1 to utf-8
  * Converted to Wikispeech-internal format, and transcriptions mapped to en-us MARY-SAMPA
 
@@ -15,7 +15,7 @@ File name: `cmudict-0.7b-ws.utf8`
 
 File name: `sv-se/nst/swe030224NST.pron-ws.utf8.gz`
 
- * Fetched from http://www.nb.no/sbfil/leksikalske_databaser/leksikon/sv.leksikon.tar.gz 2016-08-23
+ * Fetched from http://www.nb.no/sbfil/leksikalske_databaser/leksikon/sv.leksikon.tar.gz
  * Converted from Latin-1 to utf-8
  * Converted to Wikispeech-internal format, and transcriptions mapped to sv-se WS-SAMPA
  
@@ -26,9 +26,9 @@ File name: `sv-se/nst/swe030224NST.pron-ws.utf8.gz`
 
 File name: `nb-no/nst/nor030224NST.pron-ws.utf8.gz`
 
- * Fetched from http://www.nb.no/sbfil/leksikalske_databaser/leksikon/no.leksikon.tar.gz 2016-08-25
+ * Fetched from http://www.nb.no/sbfil/leksikalske_databaser/leksikon/no.leksikon.tar.gz
  * Converted from Latin-1 to utf-8
-* Converted to Wikispeech-internal format, and transcriptions mapped to nb-no WS-SAMPA
+ * Converted to Wikispeech-internal format, and transcriptions mapped to nb-no WS-SAMPA
 
 [Reference: steps taken to convert to Wikispeech format](https://github.com/stts-se/lexdata/blob/master/nb-no/nst/README.md)
 
