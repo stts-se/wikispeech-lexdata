@@ -1,6 +1,6 @@
-bob			bob			en	false	' b o b	ar							imported	hb
-dylan			dylan			en	false	' d i . l a n	ar							imported	hb
-volvo			volvo			en	false	' v o l . v o:	ar							imported	hb
-بوب			بوب			ar	false	' b o b	ar							imported	hb
-ديلن			ديلن			ar	false	' d i . l a n	ar							imported	hb
-فولفو			فولفو			en	false	:' v o l . v o	ar							imported	hb
+bob			bob			en	' b o b	ar							imported	hb	false	
+dylan			dylan			en	' d i . l a n	ar							imported	hb	false	
+volvo			volvo			en	' v o l . v o:	ar							imported	hb	false	
+بوب			بوب			ar	' b o b	ar							imported	hb	false	
+ديلن			ديلن			ar	' d i . l a n	ar							imported	hb	false	
+فولفو			فولفو			en	:' v o l . v o	ar							imported	hb	false	
