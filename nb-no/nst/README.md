@@ -27,11 +27,14 @@ http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-23&lang=nb
     (unparsable lines will be printed to stderr and discarded)
 
  5. Gzipped and uploaded `nor030224NST.pron-ws.utf8.gz` to git: `lexdata/nb-no/nst` 2017-09-26
+ 
+ 6. Converted to sql dump and uploaded to git: `nor030224NST.pron-ws.utf8.sql.gz` 2018-02-06
 
 Update 2017-02-17: new line format   
 Update 2017-05-29: small update (changed stress placement)   
 Update 2017-09-26: removed lines with GARB tags   
 Update 2017-11-14: new line format   
+Update 2018-02-06: added sql dump for faster imports    
 
 ---
 
