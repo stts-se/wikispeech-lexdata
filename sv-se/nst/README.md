@@ -27,6 +27,8 @@ http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-22&lang=nb
     (unparsable lines will be printed to stderr and discarded)
 
  5. Gzipped and uploaded `swe030224NST.pron-ws.utf8.gz` to git: `lexdata/sv-se/nst` 2017-09-26
+ 
+ 6. Converted to sql dump and uploaded to git: `swe030224NST.pron-ws.utf8.sql.gz` 2018-02-06
 
 Update 2016-10-28: added conversion to r-colored vowels to the svSeNST2WS.go script   
 Update 2017-02-17: new line format   
@@ -34,6 +36,7 @@ Update 2017-05-29: small update (moved one instance of secondary stress)
 Update 2017-09-26: removed some roman numerals ("C" transcribed like "100", "VI" as "6", etc) [in conversion script]   
 Update 2017-09-26: removed lines with GARB tags [in conversion script]   
 Update 2017-11-14: new line format   
+Update 2018-02-06: added sql dump for faster imports    
 
 ---
 
