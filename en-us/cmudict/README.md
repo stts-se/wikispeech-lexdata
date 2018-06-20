@@ -26,6 +26,7 @@ Update 2017-05-09: new mapper file (ws-sampa) and corrected mapping for secondar
 Update 2017-05-11: updated filter for stress placement, and added syllable boundaries  
 Update 2017-11-14: new line format   
 Update 2018-02-06: added sql dump for faster imports    
+Update 2018-06-18: new sql dumps for new database schema (with comments and tags)    
 
 N.B.! The `enu_cmu.syll` file above is used for syllabification. The file is located in the git repository `rb2gp`: https://github.com/stts-se/rbg2p/blob/master/cmd/server/g2p_files/enu_cmu.syll
 
