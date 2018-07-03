@@ -36,6 +36,7 @@ Update 2017-09-26: removed lines with GARB tags
 Update 2017-11-14: new line format   
 Update 2018-02-06: added sql dump for faster imports    
 Update 2018-06-18: new sql dumps for new database schema (with comments and tags)    
+Update 2018-07-03: new line format   
 
 ---
 
