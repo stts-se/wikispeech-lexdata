@@ -1,0 +1,52 @@
+DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
+strofa	a	a	U+0061	Syllabic
+triolet	e	ɛ	U+025B	Syllabic
+lyrika	i	ɪ	U+026A	Syllabic
+trochej	o	o	U+006F	Syllabic
+metrum	u	u	U+0075	Syllabic
+báseň	ā	a:	U+0061U+003A	Syllabic
+cézura	ē	ɛ:	U+025BU+003A	Syllabic
+rýmovník	ī	i:	U+0069U+003A	Syllabic
+óda	ō	o:	U+006FU+003A	Syllabic
+půlverš	ū	u:	U+0075U+003A	Syllabic
+dvouverší	ö	ou̯	U+006FU+0075U+032F	Syllabic
+klauzule	ä	au̯	U+0061U+0075U+032F	Syllabic
+eufonie	ë	ɛu̯	U+025BU+0075U+032F	Syllabic
+madrigal	m	m	U+006D	NonSyllabic
+amfibrach	M	ɱ	U+0271	NonSyllabic
+rondel	n	n	U+006E	NonSyllabic
+blankvers	N	ŋ	U+014B	NonSyllabic
+píseň	ň	ɲ	U+0272	NonSyllabic
+poezie	p	p	U+0070	NonSyllabic
+balada	b	b	U+0062	NonSyllabic
+tercína	t	t	U+0074	NonSyllabic
+daktyl	d	d	U+0064	NonSyllabic
+šestiverší	ť	c	U+0063	NonSyllabic
+předěl	ď	ɟ	U+025F	NonSyllabic
+kasída	k	k	U+006B	NonSyllabic
+elegie	g	g	U+0067	NonSyllabic
+ʔanapest	?	ʔ	U+0294	NonSyllabic
+siciliána	t=s	t͜s	U+0074U+035CU+0073	NonSyllabic
+Špicberky	Z	d͜z	U+0064U+035CU+007A	NonSyllabic
+časomíra	č	t͜ʃ	U+0074U+035CU+0283	NonSyllabic
+lučba	Ž	d͜ʒ	U+0064U+035CU+0292	NonSyllabic
+ferekratej	f	f	U+0066	NonSyllabic
+versifikace	v	v	U+0076	NonSyllabic
+sonet	s	s	U+0073	NonSyllabic
+gazel	z	z	U+007A	NonSyllabic
+verš	š	ʃ	U+0283	NonSyllabic
+syžet	ž	ʒ	U+0292	NonSyllabic
+choliamb	x	x	U+0078	NonSyllabic
+Bar-Kochba	X	ɣ	U+0263	NonSyllabic
+hexametr	h	ɦ	U+0266	NonSyllabic
+limerik	l	l	U+006C	NonSyllabic
+rým	r	r	U+0072	NonSyllabic
+řádek	ř	r̝	U+0072U+031D	NonSyllabic
+přízvuk	Ř	r̝̊	U+0072U+031DU+030A	NonSyllabic
+jamb	j	j	U+006A	NonSyllabic
+pentametr	R	r̩	U+0072U+0329	NonSyllabic
+mlha	L	l̩	U+006CU+0329	NonSyllabic
+phoneme delimiter				PhonemeDelimiter
+syllable delimiter	.	.	U+002E	SyllableDelimiter
+morpheme delimiter	-	!	U+0021	SyllableDelimiter
+primary stress	'	ˈ	U+02C8	Stress
