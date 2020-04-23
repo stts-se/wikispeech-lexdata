@@ -28,6 +28,8 @@ Update 2017-11-14: new line format
 Update 2018-02-06: added sql dump for faster imports    
 Update 2018-06-18: new sql dumps for new database schema (with comments and tags)    
 Update 2018-07-03: new line format   
+Update 2020-04-23: sqlite dump renamed with suffix .sqlite.sql.gz     
+Update 2020-04-23: new mariadb dump with suffix to .mariadb.sql.gz   
 
 N.B.! The `enu_cmu.syll` file above is used for syllabification. The file is located in the git repository `rb2gp`: https://github.com/stts-se/rbg2p/blob/master/cmd/server/g2p_files/enu_cmu.syll
 

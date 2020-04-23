@@ -19,3 +19,7 @@ http://www.ujc.cas.cz/phword/
  5. Gzipped and uploaded `czphlexcorp_29-06-16-ws.utf8.gz` to git: `lexdata/cs-cs/phword` 2019-10-17
  
  6. Converted to sql dump and uploaded to git: `czphlexcorp_29-06-16-ws.utf8.sql.gz` 2019-10-17
+
+
+Update 2020-04-23: sqlite dump renamed with suffix .sqlite.sql.gz     
+Update 2020-04-23: new mariadb dump with suffix to .mariadb.sql.gz   
