@@ -4,8 +4,8 @@ Below are the licenses applicable for the source lexicon data.
 
 |Lexicon | Source file |License |
 |-----|-----|-----|
-| nb-no/nst | http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-23&lang=nb | ![Creative_Commons-ZERO (CC-ZERO)](https://creativecommons.org/publicdomain/zero/1.0) |
-| sv-se/nst | http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-22&lang=nb |![Creative_Commons-ZERO (CC-ZERO)](https://creativecommons.org/publicdomain/zero/1.0) |
+| nb-no/nst | http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-23&lang=nb | [Creative_Commons-ZERO (CC-ZERO)](https://creativecommons.org/publicdomain/zero/1.0) |
+| sv-se/nst | http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-22&lang=nb |[Creative_Commons-ZERO (CC-ZERO)](https://creativecommons.org/publicdomain/zero/1.0) |
 | cs-cz/phword | http://www.ujc.cas.cz/phword/czphlexcorp_29-06-16.zip | unknown license |
 
 ## en-us/cmudict
