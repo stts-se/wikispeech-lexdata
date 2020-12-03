@@ -8,11 +8,9 @@ Below are the licenses applicable for the source lexicon data.
 |-----|-----|-----|
 | nb-no/nst | http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-23&lang=nb | [Creative_Commons-ZERO (CC-ZERO)](https://creativecommons.org/publicdomain/zero/1.0) |
 | sv-se/nst | http://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-22&lang=nb |[Creative_Commons-ZERO (CC-ZERO)](https://creativecommons.org/publicdomain/zero/1.0) |
-| en-us/cmudict | http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict.0.7a | See below
+| en-us/cmudict | http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict.0.7a | BSD-2-Clause like (see below)
 
 ## en-us/cmudict
-
-??? [BSD](https://en.wikipedia.org/wiki/BSD_licenses) according to [Wikipedia](https://en.wikipedia.org/wiki/CMU_Pronouncing_Dictionary)
 
 https://github.com/cmusphinx/cmudict/blob/master/LICENSE
 
