@@ -35,3 +35,8 @@ File name: `nb-no/nst/nor030224NST.pron-ws.utf8.gz`
 ---
 
 ### [Description of the Wikispeech lexicon file format](https://godoc.org/github.com/stts-se/pronlex/line)
+
+
+---
+
+_This work was supported by the Swedish Post and Telecom Authority (PTS) through the grant "Wikispeech – en användargenererad talsyntes på Wikipedia" (2016–2017)._
