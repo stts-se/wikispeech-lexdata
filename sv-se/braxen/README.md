@@ -4,7 +4,7 @@ Steps taken to generate lexicon resources in this repository.
 
 All lexicon resources here are based on publicly available resources.
 
-Braxen Swedish pronunciation lexicon downloaded 2017-09-26
+Braxen Swedish pronunciation lexicon downloaded 2025-04-10
 
 https://github.com/sprakbankental/braxen
 
@@ -12,11 +12,11 @@ https://github.com/sprakbankental/braxen
 
  2. Converted file to Wikispeech format using `go` package `pronlex/cmd/lexio/convert/svSeBraxen2WS`:
 
-    `$ go run svSeBraxen2WS.go braxen-sv.tsv sv-se_braxen-sampa.sym sv-se_ws-sampa.sym > braxen-sv-ws.tsv
+    `$ go run svSeBraxen2WS.go braxen-sv.tsv sv-se_braxen-sampa.sym sv-se_ws-sampa.sym > braxen-sv-ws
 
     (unparsable lines will be printed to stderr and discarded)
 
- 3. Gzipped and uploaded `braxen-sv-ws.tsv.gz` to git: `lexdata/sv-se/braxen` 2025-MM-DD
+ 3. Gzipped and uploaded `braxen-sv-ws.tsvgz` to git: `lexdata/sv-se/braxen` 2025-04-10
  
  4. Converted to sql dump and uploaded to git: `braxen-sv-ws.sql.gz` 2025-MM-DD
 
