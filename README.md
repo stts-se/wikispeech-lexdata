@@ -1,14 +1,13 @@
 # Lexicon data from publicly available resources
 
-## The CMU Pronouncing Dictionary (US English)
+## The Braxen Swedish Pronouncing Dictionary (Swedish/Sweden)
 
-File name: `cmudict-0.7b-ws.utf8`
+File name: `sv-se/braxen/braxen-sv.tsv`
 
- * Fetched from http://www.speech.cs.cmu.edu/cgi-bin/cmudict
- * Converted from Latin-1 to utf-8
- * Converted to Wikispeech-internal format, and transcriptions mapped to en-us WS-SAMPA
+ * Fetched from https://github.com/sprakbankental/braxen/blob/main/dict/braxen-sv.tsv
+ * Converted to Wikispeech-internal format, and transcriptions mapped to sv-se WS-SAMPA
 
-[Reference: steps taken to convert to Wikispeech format](https://github.com/stts-se/wikispeech-lexdata/blob/master/en-us/cmudict/README.md)
+[Reference: steps taken to convert to Wikispeech format](https://github.com/stts-se/wikispeech-lexdata/blob/master/sv-se/braxen/README.md)
 
 
 ## NST Swedish Pronouncing Dictionary (Swedish/Sweden)
@@ -31,6 +30,18 @@ File name: `nb-no/nst/nor030224NST.pron-ws.utf8.gz`
  * Converted to Wikispeech-internal format, and transcriptions mapped to nb-no WS-SAMPA
 
 [Reference: steps taken to convert to Wikispeech format](https://github.com/stts-se/wikispeech-lexdata/blob/master/nb-no/nst/README.md)
+
+
+## The CMU Pronouncing Dictionary (US English)
+
+File name: `en-us/cmudict/cmudict-0.7b-ws.utf8`
+
+ * Fetched from http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+ * Converted from Latin-1 to utf-8
+ * Converted to Wikispeech-internal format, and transcriptions mapped to en-us WS-SAMPA
+
+[Reference: steps taken to convert to Wikispeech format](https://github.com/stts-se/wikispeech-lexdata/blob/master/en-us/cmudict/README.md)
+
 
 ---
 

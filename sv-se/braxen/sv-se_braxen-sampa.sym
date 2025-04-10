@@ -1,0 +1,95 @@
+DESCRIPTION	SYMBOL	IPA	IPA UNICODE	CATEGORY
+pil	p	p	U+0070	NonSyllabic
+bil	b	b	U+0062	NonSyllabic
+tak	t	t	U+0074	NonSyllabic
+port	rt	ʈ	U+0288	NonSyllabic
+dop	d	d	U+0064	NonSyllabic
+bord	rd	ɖ	U+0256	NonSyllabic
+katt	k	k	U+006B	NonSyllabic
+våg	g	g	U+0067	NonSyllabic
+fot	f	f	U+0066	NonSyllabic
+vit	v	v	U+0076	NonSyllabic
+sol	s	s	U+0073	NonSyllabic
+fors	rs	ʂ	U+0282	NonSyllabic
+schlager	sh	ʃ	U+0283	NonSyllabic
+measure (eng)	zh	ʒ	U+0292	NonSyllabic
+pause (eng)	z	z	U+007A	NonSyllabic
+the (eng)	dh	ð	U+00F0	NonSyllabic
+smith (eng)	th	θ	U+03B8	NonSyllabic
+hot	h	h	U+0068	NonSyllabic
+sjok	x	ɧ	U+0267	NonSyllabic
+achtung (ger)	xx	x	U+0078	NonSyllabic
+köl	c	ɕ	U+0255	NonSyllabic
+child (eng)	tc	t͡ʃ	U+0074U+0361U+0283	NonSyllabic
+jones (eng)	dj	d͡ʒ	U+0064U+0361U+0292	NonSyllabic
+mål	m	m	U+006D	NonSyllabic
+nål	n	n	U+006E	NonSyllabic
+barn	rn	ɳ	U+0273	NonSyllabic
+ung	ng	ŋ	U+014B	NonSyllabic
+ros	r	r	U+0072	NonSyllabic
+lås	l	l	U+006C	NonSyllabic
+porla	rl	ɭ	U+026D	NonSyllabic
+jord	j	j	U+006A	NonSyllabic
+what (eng)	w	w	U+0077	NonSyllabic
+#run (eng)	rh	ɾ	U+027E	NonSyllabic
+run (eng)	rh	r	U+0072	NonSyllabic
+#paper (eng)	r0	r0	U+0072U+0030	NonSyllabic
+paper (eng)	r0	r	U+0072	NonSyllabic
+#paris (fre)	rx	ʀ	U+0280	NonSyllabic
+paris (fre)	rx	r	U+0072	NonSyllabic
+vit	i:	iː	U+0069U+02D0	Syllabic
+vitt	i	ɪ	U+026A	Syllabic
+#radio	ih	ɪ̯	U+026AU+032F	Syllabic
+radio	ih	ɪ	U+026A	Syllabic
+syl	y:	yː	U+0079U+02D0	Syllabic
+syll	y	ʏ	U+028F	Syllabic
+vet	e:	eː	U+0065U+02D0	Syllabic
+vett	e	e	U+0065	Syllabic
+#adekvat (obetonat /e/)	eh	e̝	U+0065U+031D	Syllabic
+adekvat (obetonat /e/)	eh	e	U+0065	Syllabic
+pojke (schwa)	ex	ə	U+0259	Syllabic
+äga	ä:	ɛː	U+025BU+02D0	Syllabic
+ägg	ä	ɛ	U+025B	Syllabic
+ära	ae:	æː	U+00E6U+02D0	Syllabic
+ärta	ae	æ	U+00E6	Syllabic
+öka	ö:	øː	U+00F8U+02D0	Syllabic
+öst	ö	ø	U+00F8	Syllabic
+öra	oe:	œː	U+0153U+02D0	Syllabic
+mört	oe	œ	U+0153	Syllabic
+stor	u:	uː	U+0075U+02D0	Syllabic
+port	u	ʊ	U+028A	Syllabic
+#lokal (obetonat /o/)	oh	o	U+006F	Syllabic
+lokal (obetonat /o/)	oh	ɔ	U+0254	Syllabic
+bås	o:	oː	U+006FU+02D0	Syllabic
+loss	o	ɔ	U+0254	Syllabic
+jul	uu:	ʉː	U+0289U+02D0	Syllabic
+kull	uu	ɵ	U+0275	Syllabic
+#aktuell (obetonat /u/)	uuh	ʉ	U+0289	Syllabic
+aktuell (obetonat /u/)	uuh	ɵ	U+0275	Syllabic
+#you (eng)	uw:	ʊː	U+028AU+02D0	Syllabic
+you (eng)	uw:	uː	U+0075U+02D0	Syllabic
+sugar (eng)	uw	ʊ	U+028A	Syllabic
+apa	a:	ɑː	U+0251U+02D0	Syllabic
+katt	a	a	U+0061	Syllabic
+faan	aa:	aː	U+0061U+02D0	Syllabic
+aula	au	a⁀ʊ	U+0061U+2040U+028A	Syllabic
+europa	eu	e⁀ʊ	U+0065U+2040U+028A	Syllabic
+agency (eng)	ei	eɪ	U+0065U+026A	Syllabic
+child (eng)	ai	aɪ	U+0061U+026A	Syllabic
+boy (eng)	oi	ɔɪ	U+0254U+026A	Syllabic
+oh (eng)	ou	əʊ	U+0259U+028A	Syllabic
+fare (eng)	eex	eə	U+0065U+0259	Syllabic
+steer (eng)	iex	ɪə	U+026AU+0259	Syllabic
+cure (eng)	uex	ʊə	U+028AU+0259	Syllabic
+enfant (fre)	an	ã	U+00E3	Syllabic
+saint (fre)	en	ɛ̃	U+025BU+0303	Syllabic
+fondation (fre)	on	õ	U+006FU+0303	Syllabic
+un (fre)	un	œ̃	U+0153U+0303	Syllabic
+accent 1	'	ˈ	U+02C8	Stress
+accent 2	"	ˈ̀	U+02C8U+0300	Stress
+secondary stress	,	ˌ	U+02CC	Stress
+syllable delimiter	.	.	U+002E	SyllableDelimiter
+compound delimiter	-	.	U+002E	SyllableDelimiter
+morpheme delimiter	~	.	U+002E	SyllableDelimiter
+word delimiter	|	.	U+002E	SyllableDelimiter
+phoneme delimiter	 			PhonemeDelimiter
