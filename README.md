@@ -2,7 +2,7 @@
 
 ## The Braxen Swedish Pronouncing Dictionary (Swedish/Sweden)
 
-File name: `sv-se/braxen/braxen-sv.tsv`
+File name: `sv-se/braxen/braxen-sv-ws.gz`
 
  * Fetched from https://github.com/sprakbankental/braxen/blob/main/dict/braxen-sv.tsv
  * Converted to Wikispeech-internal format, and transcriptions mapped to sv-se WS-SAMPA
