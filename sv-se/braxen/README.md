@@ -16,10 +16,12 @@ https://github.com/sprakbankental/braxen
 
     (unparsable lines will be printed to stderr and discarded)
 
- 3. Gzipped and uploaded `braxen-sv-ws.tsvgz` to git: `lexdata/sv-se/braxen` 2025-04-10
+ 3. Gzipped and uploaded `braxen-sv-ws.gz` to git: `lexdata/sv-se/braxen` 2025-04-11
  
- 4. Converted to sql dump and uploaded to git: `braxen-sv-ws.sql.gz` 2025-MM-DD
+ 4. Converted sqlite db to sql dump and uploaded to git: `braxen-sv-ws.sqlite.sql.gz` 2025-04-11
 
+
+TODO: Create mariadb sql dump
 
 ---
 

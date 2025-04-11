@@ -51,6 +51,7 @@ jord	j	j	U+006A	NonSyllabic
 what (eng)	w	w	U+0077	NonSyllabic
 #schlager	n/a	ʃ	NonSyllabic
 syllable delimiter	.	.	U+002E	SyllableDelimiter
+word delimiter	|	 	U+0020	WordDelimiter
 accent I	"	ˈ	U+02C8	Stress
 accent II	""	ˈ̀	U+02C8U+0300	Stress
 secondary stress	%	ˌ	U+02CC	Stress

@@ -91,5 +91,5 @@ secondary stress	,	ˌ	U+02CC	Stress
 syllable delimiter	.	.	U+002E	SyllableDelimiter
 compound delimiter	-	.	U+002E	SyllableDelimiter
 morpheme delimiter	~	.	U+002E	SyllableDelimiter
-word delimiter	|	.	U+002E	SyllableDelimiter
+word delimiter	|	 	U+0020	SyllableDelimiter
 phoneme delimiter	 			PhonemeDelimiter
