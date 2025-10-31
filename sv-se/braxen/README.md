@@ -21,6 +21,11 @@ https://github.com/sprakbankental/braxen
  4. Converted sqlite db to sql dumps and uploaded to git: `braxen-sv-ws.sqlite.sql.gz` + `braxen-sv-ws.mariadb.sql.gz` 2025-04-11
 
 
+TODO:
+ * Map language tags to ISO format (instead of just 'foreign')
+ * Check duplicate entries
+ * Add more phonemes to phoneme set (English, etc)
+
 ---
 
 Dependency: https://github.com/stts-se/pronlex

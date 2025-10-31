@@ -48,7 +48,7 @@ sjok	S	ɧ	U+0267	NonSyllabic
 hot	h	h	U+0068	NonSyllabic
 porla	rl	ɭ	U+026D	NonSyllabic
 jord	j	j	U+006A	NonSyllabic
-#schlager	n/a	ʃ	NonSyllabic
+#schlager	SH	ʃ	NonSyllabic
 syllable delimiter	-	.	U+002E	SyllableDelimiter
 phoneme delimiter	 			PhonemeDelimiter
 accent I	'	ˈ	U+02C8	Stress
