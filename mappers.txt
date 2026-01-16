@@ -1,3 +1,9 @@
+MAPPER	sv-se_ws-sampa-DEMO	sv-se_sampa_mary-DEMO
+TEST	" au . l a	' a*U - l a
+
+MAPPER	sv-se_sampa_mary-DEMO	sv-se_ws-sampa-DEMO
+TEST	' a*U - l a	" au . l a
+
 MAPPER	sv-se_ws-sampa	sv-se_sampa_mary
 TEST	" au . l a	' a*U - l a
 
@@ -5,7 +11,11 @@ MAPPER	sv-se_sampa_mary	sv-se_ws-sampa
 TEST	' a*U - l a	" au . l a
 
 MAPPER	sv-se_ws-sampa	sv-se_matcha_ipa_from_ws
-TEST	" au . l a	ˈaʊ.la
+TEST	" au . l a	ˈaʊla
+
+MAPPER	sv-se_ws-sampa	sv-se_matcha_ipa_from_ws
+TEST	"" t A: l . s Y n . % t e: s	t°Ɑlsynt`Es
 
 #MAPPER	sv-se_matcha_ipa_from_ws	sv-se_ws-sampa
 #TEST	strˈIt	s t r ' i: t
+
