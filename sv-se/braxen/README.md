@@ -18,7 +18,7 @@ https://github.com/sprakbankental/braxen
 
  3. Gzipped and uploaded `braxen-sv-ws.gz` to git: `lexdata/sv-se/braxen` 2025-04-11
  
- 4. Converted sqlite db to sql dumps and uploaded to git: `braxen-sv-ws.sqlite.sql.gz` + `braxen-sv-ws.mariadb.sql.gz` 2025-04-11
+ 4. Converted sqlite db to sql dumps and uploaded to git: `braxen-sv-ws.sqlite.sql.gz` + `braxen-sv-ws.mariadb.sql.gz` 2025-04-11, sql dump updated 2026-01-16
 
 
 TODO:
