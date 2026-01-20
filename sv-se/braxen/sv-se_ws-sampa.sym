@@ -49,7 +49,7 @@ hot	h	h	U+0068	NonSyllabic
 porla	rl	ɭ	U+026D	NonSyllabic
 jord	j	j	U+006A	NonSyllabic
 #what (eng)	w	w	U+0077	NonSyllabic
-#schlager	S	ʃ	U+0283	NonSyllabic
+schlager	S	ʃ	U+0283	NonSyllabic
 syllable delimiter	.	.	U+002E	SyllableDelimiter
 #word delimiter	|	 	U+0020	WordDelimiter
 accent I	"	ˈ	U+02C8	Stress
