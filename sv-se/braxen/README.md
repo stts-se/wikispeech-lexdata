@@ -20,6 +20,9 @@ https://github.com/sprakbankental/braxen
  
  4. Converted sqlite db to sql dumps and uploaded to git: `braxen-sv-ws.sqlite.sql.gz` + `braxen-sv-ws.mariadb.sql.gz` 2025-04-11, sql dump updated 2026-01-16
 
+UPDATES
+* New lexicon files (txt+sqlite+mariadb) using stoplist to remove some invalid transcriptions
+
 
 TODO:
  * Map language tags to ISO format (instead of just 'foreign')
