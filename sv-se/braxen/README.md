@@ -12,7 +12,7 @@ https://github.com/sprakbankental/braxen
 
  2. Converted file to Wikispeech format using `go` package `pronlex/cmd/lexio/convert/svSeBraxen2WS`:
 
-    `$ go run svSeBraxen2WS.go braxen-sv.tsv sv-se_braxen-sampa.sym sv-se_ws-sampa.sym > braxen-sv-ws
+    `$ go run svSeBraxen2WS.go braxen-sv.tsv sv-se_braxen-sampa.sym sv-se_ws-sampa-braxen.sym > braxen-sv-ws
 
     (unparsable lines will be printed to stderr and discarded)
 
@@ -21,7 +21,7 @@ https://github.com/sprakbankental/braxen
  4. Converted sqlite db to sql dumps and uploaded to git: `braxen-sv-ws.sqlite.sql.gz` + `braxen-sv-ws.mariadb.sql.gz` 2025-04-11, sql dump updated 2026-01-16
 
 UPDATES
-* New lexicon files (txt+sqlite+mariadb) using stoplist to remove some invalid transcriptions
+* Updated lexicon files (txt+sqlite+mariadb) using stoplist to remove some invalid transcriptions - 2026-04-10
 
 
 TODO:
