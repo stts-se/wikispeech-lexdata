@@ -38,7 +38,8 @@ vit	I	iː	U+0069U+02D0	Syllabic
 vitt	ɪ	ɪ	U+026A	Syllabic
 radio	ɪ̯	ɪ	U+026A	Syllabic
 syl	Y	yː	U+0079U+02D0	Syllabic
-syll	y	ʏ	U+028F	Syllabic
+#syll	y	ʏ	U+028F	Syllabic
+syll	ʏ	ʏ	U+028F	Syllabic
 vet	E	eː	U+0065U+02D0	Syllabic
 vett	e	e	U+0065	Syllabic
 adekvat (obetonat /e/)	e̝	e	U+0065	Syllabic

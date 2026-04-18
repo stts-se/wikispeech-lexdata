@@ -12,7 +12,7 @@
 
 MAPPER	sv-se_ws-sampa-braxen	sv-se_matcha_ipa_from_ws
 TEST	" au . l a	ˈaʊla
-TEST	"" t A: l . s Y n . % t e: s	t°Ɑlsynt`Es
+TEST	"" t A: l . s Y n . % t e: s	t°Ɑlsʏnt`Es
 
 #MAPPER	sv-se_matcha_ipa_from_ws	sv-se_ws-sampa-braxen
 #TEST	t°Ɑl#sʏnt`Es"	"" t A: l . s Y n t % e: s
