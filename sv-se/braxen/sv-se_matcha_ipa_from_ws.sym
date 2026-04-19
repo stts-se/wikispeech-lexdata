@@ -51,7 +51,8 @@ pojke (schwa)	ə	ə	U+0259	Syllabic
 öka	Ø	øː	U+00F8U+02D0	Syllabic
 öst	ø	ø	U+00F8	Syllabic
 öra	Œ	œː	U+0153U+02D0	Syllabic
-mört	œ	œ	U+0153	Syllabic
+mört	ɶ	œ	U+0153	Syllabic
+#mört	œ	œ	U+0153	Syllabic
 stor	U	uː	U+0075U+02D0	Syllabic
 port	u	ʊ	U+028A	Syllabic
 lokal (obetonat /o/)	o	ɔ	U+0254	Syllabic
