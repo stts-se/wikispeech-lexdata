@@ -7,7 +7,7 @@ matt	a	a	U+0061	Syllabic
 mat	A:	ɑː	U+0251U+02D0	Syllabic
 faan	a:	aː	U+0061U+02D0	Syllabic
 bot	u:	uː	U+0075U+02D0	Syllabic
-bott	U	ʊ	U+028A	Syllabic
+bott	U	u	U+0075	Syllabic
 häl	E:	ɛː	U+025BU+02D0	Syllabic
 härd	{:	æː	U+00E6U+02D0	Syllabic
 häll	E	ɛ	U+025B	Syllabic
@@ -61,4 +61,4 @@ TEST	ACCEPT	SYMBOLS	f "" u: rn a
 TEST	REJECT	SYMBOLS	f "" U: rn a
 TEST	ACCEPT	IPA	fˈuː.ɳa
 TEST	ACCEPT	IPA	ˈbrɑ̀ː.ka
-TEST	REJECT	IPA	fˈu.ɳa
+TEST	REJECT	IPA	fˈʊ.ɳa
